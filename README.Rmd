@@ -17,7 +17,7 @@ repos:
   - CroPLotR
   - SticsRTests
   - SticsPubRTools
-  - SticsTestR
+  #- SticsTestR
   #rstudio-education:
   #- gradethis
   #rstudio:
