@@ -34,13 +34,13 @@ SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,3,4,2,3,FALSE,https://github.com/Stics
 The test was crashing in case javastics==NULL, (which is possible if not given to stics_wrapper_options when initializing model_options, for example).
 The case javastics==""unknown"" is not possible at this step since it is already captured above in do.call(stics_wrapper_options, model_options).",[![](https://github.com/SticsRPacks/SticsOnR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/6159823086) [![](https://github.com/SticsRPacks/SticsOnR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/6159823090)
 SticsRPacks,SticsPubRTools,SticsRPacks/SticsPubRTools,0,4,0,0,FALSE,https://github.com/SticsRPacks/SticsPubRTools,NA,b3bde1b2faa3447acdb2015ae8b7c18c2aa7088c,fix: missing arg for several files,[![](https://github.com/SticsRPacks/SticsPubRTools/workflows/R/badge.svg)](https://github.com/SticsRPacks/SticsPubRTools/actions/runs/2614645901)
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,6,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,361c37c1dc16216f70d9ad3684588ebd0ae35d01,"Merged main into branch
+SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,7,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,361c37c1dc16216f70d9ad3684588ebd0ae35d01,"Merged main into branch
 
 Merge branch 'main' into plecharpent/feat/XML-transfo
 
 # Conflicts:
 #	R/gen_new_travail.R",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/5690142502)
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,6,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,ed3ef394244f3e7a44093dd3c3424ee710282020,"Plecharpent/fix/var conversion (#27)
+SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,7,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,ed3ef394244f3e7a44093dd3c3424ee710282020,"Plecharpent/fix/var conversion (#27)
 
 * improvement of variables names conversion
 (still missing a case i.e. varname_1_2)
