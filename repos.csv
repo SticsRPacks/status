@@ -12,7 +12,7 @@ SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,16,5,2,5,FALSE,https://github.com/
 SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,16,5,2,5,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,5301f463b33bbb6b6a75997bd3439faae583dfe0,Improved doc for forced_param_values argument,[![](https://github.com/SticsRPacks/CroptimizR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/6161022886)
 SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,16,5,2,5,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,6b4291a0ec66a670b199ab8d69ef8b0770a21150,Update CITATION.cff,[![](https://github.com/SticsRPacks/CroptimizR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/5387369339)
 SticsRPacks,SticsContainRs,SticsRPacks/SticsContainRs,0,4,0,0,FALSE,https://github.com/SticsRPacks/SticsContainRs,0,NA,NA,NA
-SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,3,4,2,3,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,3a250b188e0b083c2c56a547c5abb23411c73da6,"Update update-citation-cff.yaml (#7)
+SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,3,4,3,3,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,3a250b188e0b083c2c56a547c5abb23411c73da6,"Update update-citation-cff.yaml (#7)
 
 * Update update-citation-cff.yaml
 
@@ -29,10 +29,6 @@ SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,3,4,2,3,FALSE,https://github.com/Stics
 ---------
 
 Co-authored-by: plecharpent <plecharpent@users.noreply.github.com>",[![](https://github.com/SticsRPacks/SticsOnR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/5540907600)
-SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,3,4,2,3,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,7eca2364793bcdbc9b7986f341d65b414c4bd289,"FIXed test on existence of javastics path in model_options in case param_values is specified.
-
-The test was crashing in case javastics==NULL, (which is possible if not given to stics_wrapper_options when initializing model_options, for example).
-The case javastics==""unknown"" is not possible at this step since it is already captured above in do.call(stics_wrapper_options, model_options).",[![](https://github.com/SticsRPacks/SticsOnR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/6159823086) [![](https://github.com/SticsRPacks/SticsOnR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/6159823090)
 SticsRPacks,SticsPubRTools,SticsRPacks/SticsPubRTools,0,4,0,0,FALSE,https://github.com/SticsRPacks/SticsPubRTools,NA,b3bde1b2faa3447acdb2015ae8b7c18c2aa7088c,fix: missing arg for several files,[![](https://github.com/SticsRPacks/SticsPubRTools/workflows/R/badge.svg)](https://github.com/SticsRPacks/SticsPubRTools/actions/runs/2614645901)
 SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,7,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,361c37c1dc16216f70d9ad3684588ebd0ae35d01,"Merged main into branch
 
