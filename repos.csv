@@ -24,21 +24,18 @@ SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,3,4,3,3,FALSE,https://github.com/Stics
 
 Co-authored-by: plecharpent <plecharpent@users.noreply.github.com>",[![](https://github.com/SticsRPacks/SticsOnR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/5540907600)
 SticsRPacks,SticsPubRTools,SticsRPacks/SticsPubRTools,0,4,0,0,FALSE,https://github.com/SticsRPacks/SticsPubRTools,NA,b3bde1b2faa3447acdb2015ae8b7c18c2aa7088c,fix: missing arg for several files,[![](https://github.com/SticsRPacks/SticsPubRTools/workflows/R/badge.svg)](https://github.com/SticsRPacks/SticsPubRTools/actions/runs/2614645901)
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,7,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,361c37c1dc16216f70d9ad3684588ebd0ae35d01,"Merged main into branch
+SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,6,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,118a9751e802f07a349838b0b3a318268516030a,Merge branch 'main' into plecharpent/feat/XML-transfo,[![](https://github.com/SticsRPacks/SticsRFiles/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/6379945457)
+SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,6,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,361c37c1dc16216f70d9ad3684588ebd0ae35d01,"Merged main into branch
 
 Merge branch 'main' into plecharpent/feat/XML-transfo
 
 # Conflicts:
 #	R/gen_new_travail.R",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/5690142502)
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,7,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,ed3ef394244f3e7a44093dd3c3424ee710282020,"Plecharpent/fix/var conversion (#27)
+SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,6,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,7ebb982eb2f9b4784f101fc89e2b2971438b8820,"Plecharpent/fix/download usm xl (#30)
 
-* improvement of variables names conversion
-(still missing a case i.e. varname_1_2)
+* fix: source dir where to find files to be copied
 
-* added a test for early return if nothing to do
-
-* Fixed not covered cases, added tests also with the complete variables list converted as full snake case names.",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/5690039961)
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,7,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,eedff4bdb880c53a7bfb715bf067b67991ad9776,Merge branch 'plecharpent/feat/XML-transfo' of https://github.com/SticsRPacks/SticsRFiles into plecharpent/feat/XML-transfo,[![](https://github.com/SticsRPacks/SticsRFiles/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/6245044408)
+* fix: more precise csv, xl files names pattern",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/6379876716)
 SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,5,5,0,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,bc1b426ea54fc158e37f459bfd916abc87e8e5f1,Merge branch 'main' of https://github.com/SticsRPacks/SticsRPacks into main,[![](https://github.com/SticsRPacks/SticsRPacks/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/5530350196)
 SticsRPacks,SticsRTests,SticsRPacks/SticsRTests,2,4,0,1,FALSE,https://github.com/SticsRPacks/SticsRTests,NA,NA,NA,NA
 SticsRPacks,data,SticsRPacks/data,0,4,0,0,FALSE,https://github.com/SticsRPacks/data,0,NA,NA,NA
