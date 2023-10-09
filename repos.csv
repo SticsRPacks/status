@@ -23,7 +23,7 @@ SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,3,4,3,3,FALSE,https://github.com/Stics
 ---------
 
 Co-authored-by: plecharpent <plecharpent@users.noreply.github.com>",[![](https://github.com/SticsRPacks/SticsOnR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/5540907600)
-SticsRPacks,SticsPubRTools,SticsRPacks/SticsPubRTools,0,4,0,0,FALSE,https://github.com/SticsRPacks/SticsPubRTools,NA,b3bde1b2faa3447acdb2015ae8b7c18c2aa7088c,fix: missing arg for several files,[![](https://github.com/SticsRPacks/SticsPubRTools/workflows/R/badge.svg)](https://github.com/SticsRPacks/SticsPubRTools/actions/runs/2614645901)
+SticsRPacks,SticsPubRTools,SticsRPacks/SticsPubRTools,0,4,0,0,FALSE,https://github.com/SticsRPacks/SticsPubRTools,NA,NA,NA,NA
 SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,6,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,118a9751e802f07a349838b0b3a318268516030a,Merge branch 'main' into plecharpent/feat/XML-transfo,[![](https://github.com/SticsRPacks/SticsRFiles/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/6379945457)
 SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,6,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,361c37c1dc16216f70d9ad3684588ebd0ae35d01,"Merged main into branch
 
