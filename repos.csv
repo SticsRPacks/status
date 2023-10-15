@@ -23,6 +23,10 @@ SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,3,4,3,3,FALSE,https://github.com/Stics
 ---------
 
 Co-authored-by: plecharpent <plecharpent@users.noreply.github.com>",[![](https://github.com/SticsRPacks/SticsOnR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/5540907600)
+SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,3,4,3,3,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,7eca2364793bcdbc9b7986f341d65b414c4bd289,"FIXed test on existence of javastics path in model_options in case param_values is specified.
+
+The test was crashing in case javastics==NULL, (which is possible if not given to stics_wrapper_options when initializing model_options, for example).
+The case javastics==""unknown"" is not possible at this step since it is already captured above in do.call(stics_wrapper_options, model_options).",[![](https://github.com/SticsRPacks/SticsOnR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/6159823086) [![](https://github.com/SticsRPacks/SticsOnR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/6159823090)
 SticsRPacks,SticsPubRTools,SticsRPacks/SticsPubRTools,0,4,0,0,FALSE,https://github.com/SticsRPacks/SticsPubRTools,NA,NA,NA,NA
 SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,5,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,035883db0040204d294f251324e0429f80de072e,Delete test-add_stics_nodes.R,[![](https://github.com/SticsRPacks/SticsRFiles/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/6496946530) [![](https://github.com/SticsRPacks/SticsRFiles/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/6496946536)
 SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,5,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,d5d09fe76db6dbd6569927679c5f6fa1c0c8d841,"Fix/tests/warnings (#35)
