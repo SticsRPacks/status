@@ -28,13 +28,70 @@ SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,3,4,3,3,FALSE,https://github.com/Stics
 The test was crashing in case javastics==NULL, (which is possible if not given to stics_wrapper_options when initializing model_options, for example).
 The case javastics==""unknown"" is not possible at this step since it is already captured above in do.call(stics_wrapper_options, model_options).",[![](https://github.com/SticsRPacks/SticsOnR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/6159823086) [![](https://github.com/SticsRPacks/SticsOnR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/6159823090)
 SticsRPacks,SticsPubRTools,SticsRPacks/SticsPubRTools,0,4,0,0,FALSE,https://github.com/SticsRPacks/SticsPubRTools,NA,NA,NA,NA
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,5,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,035883db0040204d294f251324e0429f80de072e,Delete test-add_stics_nodes.R,[![](https://github.com/SticsRPacks/SticsRFiles/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/6496946536)
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,5,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,c6703e96462b8f12f9231d599a5a282c023f4a67,"get_usms_files kept (check_usms_files removed) and returns either a list or a data.frame.
+SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,5,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,420d96c317c34fc8179faa9059b76685e54a1563,"Plecharpent/feat/xml transfo (#36)
+
+* changes: manage Stics usms input files generation from a JavaStics workspace without using the JavaStics command line interface.
+
+* merge with master
+
+* man update
+
+* useless lines & commented code
+
+* man update
+
+* Update check-standard.yaml
+
+triggers actions on every branch
+
+* fix: linting
+
+* fixes: files names extraction in usms.xml, plant files and general parameters files location retrieving.
+changes: gen_sol_xsl_file function in a new R file
+
+* collate field update
+
+* no doc for gen_sol_xsl
+
+* added: checking now culturean value
+
+* wrong use of unknown_idx and table update ahd to be after the warning
+
+* fix : calculating culturean and nbans
+
+* fix: culturean to 0, not to 1 as previously
+
+* fix :  && for unique value
+
+* fix: get usm data from usms.xml and extracting climatic year from files (col. separator)
+
+* fix: codesimul in gen_new_travail
+Improvement of files generation and copy in usm files generation
+
+* Update CITATION.cff
+
+* fix: for detecting files type
+
+* Now using XML::free when possible through the xml_document class delete method
+
+* using now an xml_doc loaded inside get_usms_list or get_soils_list and use for testing the doc type and with the find_usms_soils_names function
+
+* get_usms_files kept (check_usms_files removed) and returns either a list or a data.frame.
 gen_soil_xsl_file is using soil name.
 
 many improvement on xml data manipulation, speed is hihly improved without using JavaSTICS cmd for files conversion
 
-Some linting issues and functions help fixed.",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/6665732672) [![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/6665732675)
+Some linting issues and functions help fixed.
+
+* removed commented code line
+
+* Merge main into plecharpent/feat/XML-transfo
+
+* fix missing line after last arrow
+
+---------
+
+Co-authored-by: plecharpent <plecharpent@users.noreply.github.com>",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/6668135714) [![](https://github.com/SticsRPacks/SticsRFiles/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/6668135710) [![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/6668135703)
 SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,6,5,0,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,c1f6b1a78f7dda60889d26ef41e0af945f79e103,Install SticsRFiles from CRAN (#7),[![](https://github.com/SticsRPacks/SticsRPacks/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/6493313897) [![](https://github.com/SticsRPacks/SticsRPacks/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/6493313900)
 SticsRPacks,SticsRTests,SticsRPacks/SticsRTests,2,4,0,1,FALSE,https://github.com/SticsRPacks/SticsRTests,NA,NA,NA,NA
 SticsRPacks,data,SticsRPacks/data,0,4,0,0,FALSE,https://github.com/SticsRPacks/data,0,NA,NA,NA
