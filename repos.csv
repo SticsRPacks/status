@@ -28,7 +28,7 @@ SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,3,4,3,3,FALSE,https://github.com/Stics
 The test was crashing in case javastics==NULL, (which is possible if not given to stics_wrapper_options when initializing model_options, for example).
 The case javastics==""unknown"" is not possible at this step since it is already captured above in do.call(stics_wrapper_options, model_options).",[![](https://github.com/SticsRPacks/SticsOnR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/6159823086) [![](https://github.com/SticsRPacks/SticsOnR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/6159823090)
 SticsRPacks,SticsPubRTools,SticsRPacks/SticsPubRTools,0,4,0,0,FALSE,https://github.com/SticsRPacks/SticsPubRTools,NA,NA,NA,NA
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,5,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,420d96c317c34fc8179faa9059b76685e54a1563,"Plecharpent/feat/xml transfo (#36)
+SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,6,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,420d96c317c34fc8179faa9059b76685e54a1563,"Plecharpent/feat/xml transfo (#36)
 
 * changes: manage Stics usms input files generation from a JavaStics workspace without using the JavaStics command line interface.
 
