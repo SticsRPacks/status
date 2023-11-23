@@ -28,7 +28,7 @@ SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,4,4,4,3,FALSE,https://github.com/Stics
 The test was crashing in case javastics==NULL, (which is possible if not given to stics_wrapper_options when initializing model_options, for example).
 The case javastics==""unknown"" is not possible at this step since it is already captured above in do.call(stics_wrapper_options, model_options).",[![](https://github.com/SticsRPacks/SticsOnR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/6159823086) [![](https://github.com/SticsRPacks/SticsOnR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/6159823090)
 SticsRPacks,SticsPubRTools,SticsRPacks/SticsPubRTools,0,4,0,0,FALSE,https://github.com/SticsRPacks/SticsPubRTools,NA,NA,NA,NA
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,6,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,420d96c317c34fc8179faa9059b76685e54a1563,"Plecharpent/feat/xml transfo (#36)
+SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,7,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,420d96c317c34fc8179faa9059b76685e54a1563,"Plecharpent/feat/xml transfo (#36)
 
 * changes: manage Stics usms input files generation from a JavaStics workspace without using the JavaStics command line interface.
 
@@ -92,7 +92,7 @@ Some linting issues and functions help fixed.
 ---------
 
 Co-authored-by: plecharpent <plecharpent@users.noreply.github.com>",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/6668135710) [![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/6668135703)
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,6,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,540052b6ebc8e7e918c2372f58019141430b29a9,"changes in args: select_value instead of name, crop instead of id2, fix filtering df with select_value, removed useless specific treatment function for initialisations",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/6826682679)
+SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,7,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,59d7f5e97a9013e4cc92d2635860c7a0046cf859,added : optional args bind_list,[![](https://github.com/SticsRPacks/SticsRFiles/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/6958792364)
 SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,6,5,0,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,c1f6b1a78f7dda60889d26ef41e0af945f79e103,Install SticsRFiles from CRAN (#7),[![](https://github.com/SticsRPacks/SticsRPacks/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/6493313897) [![](https://github.com/SticsRPacks/SticsRPacks/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/6493313900)
 SticsRPacks,SticsRTests,SticsRPacks/SticsRTests,2,4,0,1,FALSE,https://github.com/SticsRPacks/SticsRTests,NA,NA,NA,NA
 SticsRPacks,data,SticsRPacks/data,0,4,0,0,FALSE,https://github.com/SticsRPacks/data,0,NA,NA,NA
