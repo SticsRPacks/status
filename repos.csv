@@ -2,7 +2,10 @@ owner,repo,full_name,stargazers_count,subscribers_count,open_issues_count,forks_
 SticsRPacks,.github,SticsRPacks/.github,0,4,0,0,FALSE,https://github.com/SticsRPacks/.github,0,NA,NA,NA
 SticsRPacks,CroPLotR,SticsRPacks/CroPlotR,0,4,11,0,FALSE,https://github.com/SticsRPacks/CroPlotR,NA,a651c9dbab9b32aae29a8a5ecad14926a65c85dd,Updated test description following last fixes,[![](https://github.com/SticsRPacks/CroPlotR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/5387346558)
 SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,0,4,11,0,FALSE,https://github.com/SticsRPacks/CroPlotR,0,a651c9dbab9b32aae29a8a5ecad14926a65c85dd,Updated test description following last fixes,[![](https://github.com/SticsRPacks/CroPlotR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/5387346558)
-SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,20,5,3,5,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,6b4291a0ec66a670b199ab8d69ef8b0770a21150,Update CITATION.cff,[![](https://github.com/SticsRPacks/CroptimizR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/5387369339)
+SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,20,5,2,5,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,6b4291a0ec66a670b199ab8d69ef8b0770a21150,Update CITATION.cff,[![](https://github.com/SticsRPacks/CroptimizR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/5387369339)
+SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,20,5,2,5,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,d596fdddf52eb1af3e3a5c2459d1c0e011524d31,"Merge pull request #10 from SticsRPacks/AgMIP_phaseIV
+
+Improvements for AgMIP calibration phase IV",[![](https://github.com/SticsRPacks/CroptimizR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/7017432454) [![](https://github.com/SticsRPacks/CroptimizR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/7017432440)
 SticsRPacks,SticsContainRs,SticsRPacks/SticsContainRs,0,4,0,0,FALSE,https://github.com/SticsRPacks/SticsContainRs,0,NA,NA,NA
 SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,4,4,4,3,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,3a250b188e0b083c2c56a547c5abb23411c73da6,"Update update-citation-cff.yaml (#7)
 
