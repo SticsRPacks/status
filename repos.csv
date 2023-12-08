@@ -7,7 +7,7 @@ SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,20,5,2,5,FALSE,https://github.com/
 
 Fix/check na in simulations",[![](https://github.com/SticsRPacks/CroptimizR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/7019246678) [![](https://github.com/SticsRPacks/CroptimizR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/7019246671)
 SticsRPacks,SticsContainRs,SticsRPacks/SticsContainRs,0,4,0,0,FALSE,https://github.com/SticsRPacks/SticsContainRs,0,NA,NA,NA
-SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,4,4,4,3,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,3a250b188e0b083c2c56a547c5abb23411c73da6,"Update update-citation-cff.yaml (#7)
+SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,4,4,5,3,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,3a250b188e0b083c2c56a547c5abb23411c73da6,"Update update-citation-cff.yaml (#7)
 
 * Update update-citation-cff.yaml
 
@@ -24,7 +24,7 @@ SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,4,4,4,3,FALSE,https://github.com/Stics
 ---------
 
 Co-authored-by: plecharpent <plecharpent@users.noreply.github.com>",[![](https://github.com/SticsRPacks/SticsOnR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/5540907600)
-SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,4,4,4,3,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,7eca2364793bcdbc9b7986f341d65b414c4bd289,"FIXed test on existence of javastics path in model_options in case param_values is specified.
+SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,4,4,5,3,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,7eca2364793bcdbc9b7986f341d65b414c4bd289,"FIXed test on existence of javastics path in model_options in case param_values is specified.
 
 The test was crashing in case javastics==NULL, (which is possible if not given to stics_wrapper_options when initializing model_options, for example).
 The case javastics==""unknown"" is not possible at this step since it is already captured above in do.call(stics_wrapper_options, model_options).",[![](https://github.com/SticsRPacks/SticsOnR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/6159823086) [![](https://github.com/SticsRPacks/SticsOnR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/6159823090)
