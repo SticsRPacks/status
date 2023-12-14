@@ -1,11 +1,17 @@
 owner,repo,full_name,stargazers_count,subscribers_count,open_issues_count,forks_count,fork,html_url_repo,watchers_count,commit_id,commit_message,badge
 SticsRPacks,.github,SticsRPacks/.github,0,4,0,0,FALSE,https://github.com/SticsRPacks/.github,0,NA,NA,NA
-SticsRPacks,CroPLotR,SticsRPacks/CroPlotR,0,4,11,0,FALSE,https://github.com/SticsRPacks/CroPlotR,NA,a651c9dbab9b32aae29a8a5ecad14926a65c85dd,Updated test description following last fixes,[![](https://github.com/SticsRPacks/CroPlotR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/5387346558)
-SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,0,4,11,0,FALSE,https://github.com/SticsRPacks/CroPlotR,0,a651c9dbab9b32aae29a8a5ecad14926a65c85dd,Updated test description following last fixes,[![](https://github.com/SticsRPacks/CroPlotR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/5387346558)
-SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,20,5,2,5,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,6b4291a0ec66a670b199ab8d69ef8b0770a21150,Update CITATION.cff,[![](https://github.com/SticsRPacks/CroptimizR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/5387369339)
-SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,20,5,2,5,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,7f7f7774649a08fd143843104308280e23bf2070,FIXed doc for default value of ranseed,[![](https://github.com/SticsRPacks/CroptimizR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/7143163889) [![](https://github.com/SticsRPacks/CroptimizR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/7143163882)
+SticsRPacks,CroPLotR,SticsRPacks/CroPlotR,0,4,12,0,FALSE,https://github.com/SticsRPacks/CroPlotR,NA,5dea36fb8e3c48e32fd4f5e296ad8d79dc50327e,"Merge pull request #31 from SticsRPacks/plecharpent-patch-1
+
+Update DESCRIPTION",[![](https://github.com/SticsRPacks/CroPlotR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/7196469604) [![](https://github.com/SticsRPacks/CroPlotR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/7196469593) [![](https://github.com/SticsRPacks/CroPlotR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/7196469620)
+SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,0,4,12,0,FALSE,https://github.com/SticsRPacks/CroPlotR,0,5dea36fb8e3c48e32fd4f5e296ad8d79dc50327e,"Merge pull request #31 from SticsRPacks/plecharpent-patch-1
+
+Update DESCRIPTION",[![](https://github.com/SticsRPacks/CroPlotR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/7196469604) [![](https://github.com/SticsRPacks/CroPlotR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/7196469593) [![](https://github.com/SticsRPacks/CroPlotR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/7196469620)
+SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,20,5,2,5,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,9003a3274ebdfc27a91193f224e4211852b7014d,"Update DESCRIPTION (#12)
+
+imports
+    SticsRFiles (>= 1.1.3),",[![](https://github.com/SticsRPacks/CroptimizR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/7196065866) [![](https://github.com/SticsRPacks/CroptimizR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/7196065865) [![](https://github.com/SticsRPacks/CroptimizR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/7196065872)
 SticsRPacks,SticsContainRs,SticsRPacks/SticsContainRs,0,4,0,0,FALSE,https://github.com/SticsRPacks/SticsContainRs,0,NA,NA,NA
-SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,4,4,5,3,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,3a250b188e0b083c2c56a547c5abb23411c73da6,"Update update-citation-cff.yaml (#7)
+SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,4,4,7,3,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,3a250b188e0b083c2c56a547c5abb23411c73da6,"Update update-citation-cff.yaml (#7)
 
 * Update update-citation-cff.yaml
 
@@ -22,12 +28,12 @@ SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,4,4,5,3,FALSE,https://github.com/Stics
 ---------
 
 Co-authored-by: plecharpent <plecharpent@users.noreply.github.com>",[![](https://github.com/SticsRPacks/SticsOnR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/5540907600)
-SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,4,4,5,3,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,7eca2364793bcdbc9b7986f341d65b414c4bd289,"FIXed test on existence of javastics path in model_options in case param_values is specified.
+SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,4,4,7,3,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,7eca2364793bcdbc9b7986f341d65b414c4bd289,"FIXed test on existence of javastics path in model_options in case param_values is specified.
 
 The test was crashing in case javastics==NULL, (which is possible if not given to stics_wrapper_options when initializing model_options, for example).
 The case javastics==""unknown"" is not possible at this step since it is already captured above in do.call(stics_wrapper_options, model_options).",[![](https://github.com/SticsRPacks/SticsOnR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/6159823086) [![](https://github.com/SticsRPacks/SticsOnR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/6159823090)
 SticsRPacks,SticsPubRTools,SticsRPacks/SticsPubRTools,0,4,0,0,FALSE,https://github.com/SticsRPacks/SticsPubRTools,NA,NA,NA,NA
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,10,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,420d96c317c34fc8179faa9059b76685e54a1563,"Plecharpent/feat/xml transfo (#36)
+SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,12,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,420d96c317c34fc8179faa9059b76685e54a1563,"Plecharpent/feat/xml transfo (#36)
 
 * changes: manage Stics usms input files generation from a JavaStics workspace without using the JavaStics command line interface.
 
@@ -91,11 +97,11 @@ Some linting issues and functions help fixed.
 ---------
 
 Co-authored-by: plecharpent <plecharpent@users.noreply.github.com>",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/6668135703)
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,10,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,c076d194f2dc4a7f45430cfdcddedf235353c810,fix: find_usms_soils_names by adding missing case for getting soil names from (nomsol) nodes from usms.xml file. Added a test file for get_soils_list. (#42),[![](https://github.com/SticsRPacks/SticsRFiles/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/7061263478)
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,10,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,c956dc83748ded37686964c6f0176705b8b1972d,Merge branch 'main' into plecharpent/fix/long-param-table,[![](https://github.com/SticsRPacks/SticsRFiles/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/7061319851)
+SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,12,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,c076d194f2dc4a7f45430cfdcddedf235353c810,fix: find_usms_soils_names by adding missing case for getting soil names from (nomsol) nodes from usms.xml file. Added a test file for get_soils_list. (#42),[![](https://github.com/SticsRPacks/SticsRFiles/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/7061263478)
+SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,12,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,c956dc83748ded37686964c6f0176705b8b1972d,Merge branch 'main' into plecharpent/fix/long-param-table,[![](https://github.com/SticsRPacks/SticsRFiles/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/7061319851)
 SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,6,5,1,2,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,c1f6b1a78f7dda60889d26ef41e0af945f79e103,Install SticsRFiles from CRAN (#7),[![](https://github.com/SticsRPacks/SticsRPacks/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/6493313897) [![](https://github.com/SticsRPacks/SticsRPacks/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/6493313900)
 SticsRPacks,SticsRTests,SticsRPacks/SticsRTests,2,4,0,1,FALSE,https://github.com/SticsRPacks/SticsRTests,NA,NA,NA,NA
 SticsRPacks,data,SticsRPacks/data,0,4,0,0,FALSE,https://github.com/SticsRPacks/data,0,NA,NA,NA
-SticsRPacks,documentation,SticsRPacks/documentation,0,4,0,0,FALSE,https://github.com/SticsRPacks/documentation,0,NA,NA,NA
+SticsRPacks,documentation,SticsRPacks/documentation,1,4,0,0,FALSE,https://github.com/SticsRPacks/documentation,1,NA,NA,NA
 SticsRPacks,sandbox,SticsRPacks/sandbox,0,6,0,0,FALSE,https://github.com/SticsRPacks/sandbox,0,NA,NA,NA
 SticsRPacks,tutorialPackage,SticsRPacks/tutorialPackage,0,4,0,0,FALSE,https://github.com/SticsRPacks/tutorialPackage,0,NA,NA,NA
