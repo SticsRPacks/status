@@ -1,12 +1,18 @@
 owner,repo,full_name,stargazers_count,subscribers_count,open_issues_count,forks_count,fork,html_url_repo,watchers_count,commit_id,commit_message,badge
 SticsRPacks,.github,SticsRPacks/.github,0,4,0,0,FALSE,https://github.com/SticsRPacks/.github,0,NA,NA,NA
-SticsRPacks,CroPLotR,SticsRPacks/CroPlotR,0,4,13,0,FALSE,https://github.com/SticsRPacks/CroPlotR,NA,6aa8a81ba8aa9a15e50c70920e9a8cae7d935443,"Merge pull request #33 from SticsRPacks/sbuis-patch-1
+SticsRPacks,CroPLotR,SticsRPacks/CroPlotR,0,4,12,0,FALSE,https://github.com/SticsRPacks/CroPlotR,NA,6aa8a81ba8aa9a15e50c70920e9a8cae7d935443,"Merge pull request #33 from SticsRPacks/sbuis-patch-1
 
 Added Cyrille in the list of authors",[![](https://github.com/SticsRPacks/CroPlotR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/7221299626)
-SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,0,4,13,0,FALSE,https://github.com/SticsRPacks/CroPlotR,0,6aa8a81ba8aa9a15e50c70920e9a8cae7d935443,"Merge pull request #33 from SticsRPacks/sbuis-patch-1
+SticsRPacks,CroPLotR,SticsRPacks/CroPlotR,0,4,12,0,FALSE,https://github.com/SticsRPacks/CroPlotR,NA,d9289f284b3280d8ab24bbc0359dce849e0035d0,"Merge pull request #34 from SticsRPacks/fix-uknown-var
+
+fix: managing error message when a var is not in outputs df",[![](https://github.com/SticsRPacks/CroPlotR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/7260899055) [![](https://github.com/SticsRPacks/CroPlotR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/7260899058)
+SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,0,4,12,0,FALSE,https://github.com/SticsRPacks/CroPlotR,0,6aa8a81ba8aa9a15e50c70920e9a8cae7d935443,"Merge pull request #33 from SticsRPacks/sbuis-patch-1
 
 Added Cyrille in the list of authors",[![](https://github.com/SticsRPacks/CroPlotR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/7221299626)
-SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,20,5,2,5,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,0624aa390761189fbe69147469f6345c6aa4ac34,Update NEWS.md,[![](https://github.com/SticsRPacks/CroptimizR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/7226878966) [![](https://github.com/SticsRPacks/CroptimizR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/7226806877)
+SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,0,4,12,0,FALSE,https://github.com/SticsRPacks/CroPlotR,0,d9289f284b3280d8ab24bbc0359dce849e0035d0,"Merge pull request #34 from SticsRPacks/fix-uknown-var
+
+fix: managing error message when a var is not in outputs df",[![](https://github.com/SticsRPacks/CroPlotR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/7260899055) [![](https://github.com/SticsRPacks/CroPlotR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/7260899058)
+SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,20,5,3,5,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,0624aa390761189fbe69147469f6345c6aa4ac34,Update NEWS.md,[![](https://github.com/SticsRPacks/CroptimizR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/7226878966) [![](https://github.com/SticsRPacks/CroptimizR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/7226806877)
 SticsRPacks,SticsContainRs,SticsRPacks/SticsContainRs,0,4,0,0,FALSE,https://github.com/SticsRPacks/SticsContainRs,0,NA,NA,NA
 SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,4,4,7,3,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,3a250b188e0b083c2c56a547c5abb23411c73da6,"Update update-citation-cff.yaml (#7)
 
