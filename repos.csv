@@ -14,7 +14,7 @@ SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,0,4,12,0,FALSE,https://github.com/Stic
 fix: managing error message when a var is not in outputs df",[![](https://github.com/SticsRPacks/CroPlotR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/7260899055) [![](https://github.com/SticsRPacks/CroPlotR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/7260899058)
 SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,21,5,3,5,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,8c387e61cd4ec0a3eb6191d406b0dc66a477b883,Update DESCRIPTION and NEWS files for new release,[![](https://github.com/SticsRPacks/CroptimizR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/7301924387) [![](https://github.com/SticsRPacks/CroptimizR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/7301829512)
 SticsRPacks,SticsContainRs,SticsRPacks/SticsContainRs,0,4,0,0,FALSE,https://github.com/SticsRPacks/SticsContainRs,0,NA,NA,NA
-SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,4,4,7,3,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,3a250b188e0b083c2c56a547c5abb23411c73da6,"Update update-citation-cff.yaml (#7)
+SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,4,4,8,3,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,3a250b188e0b083c2c56a547c5abb23411c73da6,"Update update-citation-cff.yaml (#7)
 
 * Update update-citation-cff.yaml
 
@@ -31,10 +31,6 @@ SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,4,4,7,3,FALSE,https://github.com/Stics
 ---------
 
 Co-authored-by: plecharpent <plecharpent@users.noreply.github.com>",[![](https://github.com/SticsRPacks/SticsOnR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/5540907600)
-SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,4,4,7,3,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,7eca2364793bcdbc9b7986f341d65b414c4bd289,"FIXed test on existence of javastics path in model_options in case param_values is specified.
-
-The test was crashing in case javastics==NULL, (which is possible if not given to stics_wrapper_options when initializing model_options, for example).
-The case javastics==""unknown"" is not possible at this step since it is already captured above in do.call(stics_wrapper_options, model_options).",[![](https://github.com/SticsRPacks/SticsOnR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/6159823086) [![](https://github.com/SticsRPacks/SticsOnR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/6159823090)
 SticsRPacks,SticsPubRTools,SticsRPacks/SticsPubRTools,0,4,0,0,FALSE,https://github.com/SticsRPacks/SticsPubRTools,NA,NA,NA,NA
 SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,13,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,8f4177a176785893404a1459aa7809d34617c9ac,"restoring temporarily : get_param_data_df, form_list2df",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/7221142267)
 SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,7,5,2,2,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,c1f6b1a78f7dda60889d26ef41e0af945f79e103,Install SticsRFiles from CRAN (#7),[![](https://github.com/SticsRPacks/SticsRPacks/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/6493313900)
