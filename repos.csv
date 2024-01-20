@@ -1,15 +1,15 @@
 owner,repo,full_name,stargazers_count,subscribers_count,open_issues_count,forks_count,fork,html_url_repo,watchers_count,commit_id,commit_message,badge
 SticsRPacks,.github,SticsRPacks/.github,0,4,0,0,FALSE,https://github.com/SticsRPacks/.github,0,NA,NA,NA
-SticsRPacks,CroPLotR,SticsRPacks/CroPlotR,0,4,12,0,FALSE,https://github.com/SticsRPacks/CroPlotR,NA,6aa8a81ba8aa9a15e50c70920e9a8cae7d935443,"Merge pull request #33 from SticsRPacks/sbuis-patch-1
+SticsRPacks,CroPLotR,SticsRPacks/CroPlotR,0,4,13,0,FALSE,https://github.com/SticsRPacks/CroPlotR,NA,6aa8a81ba8aa9a15e50c70920e9a8cae7d935443,"Merge pull request #33 from SticsRPacks/sbuis-patch-1
 
 Added Cyrille in the list of authors",[![](https://github.com/SticsRPacks/CroPlotR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/7221299626)
-SticsRPacks,CroPLotR,SticsRPacks/CroPlotR,0,4,12,0,FALSE,https://github.com/SticsRPacks/CroPlotR,NA,c7040244a60c19dac811104e7ff84a166a5dbe74,"Merge pull request #36 from SticsRPacks/updatestats
+SticsRPacks,CroPLotR,SticsRPacks/CroPlotR,0,4,13,0,FALSE,https://github.com/SticsRPacks/CroPlotR,NA,c7040244a60c19dac811104e7ff84a166a5dbe74,"Merge pull request #36 from SticsRPacks/updatestats
 
 Update stats for the case of division by zero",[![](https://github.com/SticsRPacks/CroPlotR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/7572987074) [![](https://github.com/SticsRPacks/CroPlotR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/7572987073)
-SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,0,4,12,0,FALSE,https://github.com/SticsRPacks/CroPlotR,0,6aa8a81ba8aa9a15e50c70920e9a8cae7d935443,"Merge pull request #33 from SticsRPacks/sbuis-patch-1
+SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,0,4,13,0,FALSE,https://github.com/SticsRPacks/CroPlotR,0,6aa8a81ba8aa9a15e50c70920e9a8cae7d935443,"Merge pull request #33 from SticsRPacks/sbuis-patch-1
 
 Added Cyrille in the list of authors",[![](https://github.com/SticsRPacks/CroPlotR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/7221299626)
-SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,0,4,12,0,FALSE,https://github.com/SticsRPacks/CroPlotR,0,c7040244a60c19dac811104e7ff84a166a5dbe74,"Merge pull request #36 from SticsRPacks/updatestats
+SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,0,4,13,0,FALSE,https://github.com/SticsRPacks/CroPlotR,0,c7040244a60c19dac811104e7ff84a166a5dbe74,"Merge pull request #36 from SticsRPacks/updatestats
 
 Update stats for the case of division by zero",[![](https://github.com/SticsRPacks/CroPlotR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/7572987074) [![](https://github.com/SticsRPacks/CroPlotR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/7572987073)
 SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,21,5,3,5,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,8c387e61cd4ec0a3eb6191d406b0dc66a477b883,Update DESCRIPTION and NEWS files for new release,[![](https://github.com/SticsRPacks/CroptimizR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/7301924387) [![](https://github.com/SticsRPacks/CroptimizR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/7301829512)
@@ -33,8 +33,34 @@ SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,4,4,7,3,FALSE,https://github.com/Stics
 Co-authored-by: plecharpent <plecharpent@users.noreply.github.com>",[![](https://github.com/SticsRPacks/SticsOnR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/5540907600)
 SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,4,4,7,3,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,ccb00a69d1fbb0b46c1567dd3c05884f458e74e2,added recursive to FALSE: if sub-dir exist (i.e. plant dir) they are now not taken into account. (#14),[![](https://github.com/SticsRPacks/SticsOnR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/7555940379) [![](https://github.com/SticsRPacks/SticsOnR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/7555940383)
 SticsRPacks,SticsPubRTools,SticsRPacks/SticsPubRTools,0,4,0,0,FALSE,https://github.com/SticsRPacks/SticsPubRTools,NA,NA,NA,NA
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,15,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,8f4177a176785893404a1459aa7809d34617c9ac,"restoring temporarily : get_param_data_df, form_list2df",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/7221142267)
-SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,7,5,0,2,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,e0de79c7d98ca8759320430a975338a66c520758,test for creating a pr for an update citation,[![](https://github.com/SticsRPacks/SticsRPacks/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/7583303098)
+SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,14,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,98a8ffe1f96c21687a21d8f9755d3f30806b8eb9,new tests and updates for var and par,[![](https://github.com/SticsRPacks/SticsRFiles/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/7586458951) [![](https://github.com/SticsRPacks/SticsRFiles/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/7586458958)
+SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,14,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,b7b1ee2c0e3191129fab64e60c3ee3734d558fd5,"rewrote get_param_info as for variables (#47)
+
+* rewrote get_param_info as for variables
+
+* Update CITATION.cff
+
+* restoring temporarily : get_param_data_df, form_list2df
+
+* Update test-get_param_info
+
+* added deprecated arg: file
+
+* man update
+
+* fix: get_param_info, vignettes update,
+
+* test for returning all parameters
+
+---------
+
+Co-authored-by: GinerM <GinerM@users.noreply.github.com>
+Co-authored-by: Patrice Lecharpentier <patrice.lecharpentier@inrae.fr>",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/7584689271)
+SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,7,5,0,2,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,f552d1a9968011a32dffd164003b5bb2f43ef8eb,"New release0.5 citation update (#12)
+
+* for new release 0.5.0
+
+* manual citation update",[![](https://github.com/SticsRPacks/SticsRPacks/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/7582490901)
 SticsRPacks,SticsRTests,SticsRPacks/SticsRTests,2,4,0,1,FALSE,https://github.com/SticsRPacks/SticsRTests,NA,NA,NA,NA
 SticsRPacks,data,SticsRPacks/data,0,4,0,0,FALSE,https://github.com/SticsRPacks/data,0,NA,NA,NA
 SticsRPacks,documentation,SticsRPacks/documentation,1,4,0,0,FALSE,https://github.com/SticsRPacks/documentation,1,NA,NA,NA
