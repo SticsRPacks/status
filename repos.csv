@@ -33,7 +33,6 @@ SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,4,4,7,3,FALSE,https://github.com/Stics
 Co-authored-by: plecharpent <plecharpent@users.noreply.github.com>",[![](https://github.com/SticsRPacks/SticsOnR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/5540907600)
 SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,4,4,7,3,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,ccb00a69d1fbb0b46c1567dd3c05884f458e74e2,added recursive to FALSE: if sub-dir exist (i.e. plant dir) they are now not taken into account. (#14),[![](https://github.com/SticsRPacks/SticsOnR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/7555940379) [![](https://github.com/SticsRPacks/SticsOnR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/7555940383)
 SticsRPacks,SticsPubRTools,SticsRPacks/SticsPubRTools,0,4,0,0,FALSE,https://github.com/SticsRPacks/SticsPubRTools,NA,NA,NA,NA
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,14,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,98a8ffe1f96c21687a21d8f9755d3f30806b8eb9,new tests and updates for var and par,[![](https://github.com/SticsRPacks/SticsRFiles/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/7586458951) [![](https://github.com/SticsRPacks/SticsRFiles/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/7586458958)
 SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,14,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,b7b1ee2c0e3191129fab64e60c3ee3734d558fd5,"rewrote get_param_info as for variables (#47)
 
 * rewrote get_param_info as for variables
@@ -56,6 +55,15 @@ SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,14,3,FALSE,https://github.co
 
 Co-authored-by: GinerM <GinerM@users.noreply.github.com>
 Co-authored-by: Patrice Lecharpentier <patrice.lecharpentier@inrae.fr>",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/7584689271)
+SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,14,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,f8c31463adddaa355dec81730780dfac3afc355d,"Fix deprecated argument ""version"" for variables (#54)
+
+* new tests and updates for var and par
+
+* added test for getting all variables info
+
+* removed useless code, and deprecated arg ""version""
+
+* functions doc update and fix version to stics_version in body",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/7609235152) [![](https://github.com/SticsRPacks/SticsRFiles/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/7609235146)
 SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,7,5,0,2,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,f552d1a9968011a32dffd164003b5bb2f43ef8eb,"New release0.5 citation update (#12)
 
 * for new release 0.5.0
