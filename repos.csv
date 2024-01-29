@@ -1,15 +1,15 @@
 owner,repo,full_name,stargazers_count,subscribers_count,open_issues_count,forks_count,fork,html_url_repo,watchers_count,commit_id,commit_message,badge
 SticsRPacks,.github,SticsRPacks/.github,0,4,0,0,FALSE,https://github.com/SticsRPacks/.github,0,NA,NA,NA
-SticsRPacks,CroPLotR,SticsRPacks/CroPlotR,0,4,13,0,FALSE,https://github.com/SticsRPacks/CroPlotR,NA,6aa8a81ba8aa9a15e50c70920e9a8cae7d935443,"Merge pull request #33 from SticsRPacks/sbuis-patch-1
+SticsRPacks,CroPLotR,SticsRPacks/CroPlotR,0,4,12,0,FALSE,https://github.com/SticsRPacks/CroPlotR,NA,6aa8a81ba8aa9a15e50c70920e9a8cae7d935443,"Merge pull request #33 from SticsRPacks/sbuis-patch-1
 
 Added Cyrille in the list of authors",[![](https://github.com/SticsRPacks/CroPlotR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/7221299626)
-SticsRPacks,CroPLotR,SticsRPacks/CroPlotR,0,4,13,0,FALSE,https://github.com/SticsRPacks/CroPlotR,NA,c7040244a60c19dac811104e7ff84a166a5dbe74,"Merge pull request #36 from SticsRPacks/updatestats
+SticsRPacks,CroPLotR,SticsRPacks/CroPlotR,0,4,12,0,FALSE,https://github.com/SticsRPacks/CroPlotR,NA,c7040244a60c19dac811104e7ff84a166a5dbe74,"Merge pull request #36 from SticsRPacks/updatestats
 
 Update stats for the case of division by zero",[![](https://github.com/SticsRPacks/CroPlotR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/7572987074) [![](https://github.com/SticsRPacks/CroPlotR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/7572987073)
-SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,0,4,13,0,FALSE,https://github.com/SticsRPacks/CroPlotR,0,6aa8a81ba8aa9a15e50c70920e9a8cae7d935443,"Merge pull request #33 from SticsRPacks/sbuis-patch-1
+SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,0,4,12,0,FALSE,https://github.com/SticsRPacks/CroPlotR,0,6aa8a81ba8aa9a15e50c70920e9a8cae7d935443,"Merge pull request #33 from SticsRPacks/sbuis-patch-1
 
 Added Cyrille in the list of authors",[![](https://github.com/SticsRPacks/CroPlotR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/7221299626)
-SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,0,4,13,0,FALSE,https://github.com/SticsRPacks/CroPlotR,0,c7040244a60c19dac811104e7ff84a166a5dbe74,"Merge pull request #36 from SticsRPacks/updatestats
+SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,0,4,12,0,FALSE,https://github.com/SticsRPacks/CroPlotR,0,c7040244a60c19dac811104e7ff84a166a5dbe74,"Merge pull request #36 from SticsRPacks/updatestats
 
 Update stats for the case of division by zero",[![](https://github.com/SticsRPacks/CroPlotR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/7572987074) [![](https://github.com/SticsRPacks/CroPlotR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/7572987073)
 SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,22,5,3,5,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,8c387e61cd4ec0a3eb6191d406b0dc66a477b883,Update DESCRIPTION and NEWS files for new release,[![](https://github.com/SticsRPacks/CroptimizR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/7301924387) [![](https://github.com/SticsRPacks/CroptimizR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/7301829512)
