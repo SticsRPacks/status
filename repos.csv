@@ -64,7 +64,7 @@ SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,17,3,FALSE,https://github.co
 * removed useless code, and deprecated arg ""version""
 
 * functions doc update and fix version to stics_version in body",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/7609235152) [![](https://github.com/SticsRPacks/SticsRFiles/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/7609235146)
-SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,7,5,0,2,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,f552d1a9968011a32dffd164003b5bb2f43ef8eb,"New release0.5 citation update (#12)
+SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,8,5,0,2,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,f552d1a9968011a32dffd164003b5bb2f43ef8eb,"New release0.5 citation update (#12)
 
 * for new release 0.5.0
 
