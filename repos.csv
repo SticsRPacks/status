@@ -14,24 +14,7 @@ SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,0,4,12,0,FALSE,https://github.com/Stic
 Update stats for the case of division by zero",[![](https://github.com/SticsRPacks/CroPlotR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/7572987074) [![](https://github.com/SticsRPacks/CroPlotR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/7572987073)
 SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,22,5,3,5,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,8c387e61cd4ec0a3eb6191d406b0dc66a477b883,Update DESCRIPTION and NEWS files for new release,[![](https://github.com/SticsRPacks/CroptimizR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/7301924387) [![](https://github.com/SticsRPacks/CroptimizR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/7301829512)
 SticsRPacks,SticsContainRs,SticsRPacks/SticsContainRs,0,4,0,0,FALSE,https://github.com/SticsRPacks/SticsContainRs,0,NA,NA,NA
-SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,4,4,9,3,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,3a250b188e0b083c2c56a547c5abb23411c73da6,"Update update-citation-cff.yaml (#7)
-
-* Update update-citation-cff.yaml
-
-* Update CITATION.cff
-
-* Update CITATION.cff
-
-* Update CITATION.cff
-
-* Update DESCRIPTION
-
-* Update CITATION.cff
-
----------
-
-Co-authored-by: plecharpent <plecharpent@users.noreply.github.com>",[![](https://github.com/SticsRPacks/SticsOnR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/5540907600)
-SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,4,4,9,3,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,ccb00a69d1fbb0b46c1567dd3c05884f458e74e2,added recursive to FALSE: if sub-dir exist (i.e. plant dir) they are now not taken into account. (#14),[![](https://github.com/SticsRPacks/SticsOnR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/7555940379) [![](https://github.com/SticsRPacks/SticsOnR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/7555940383)
+SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,4,4,7,3,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,8014063814f6fc02e89953df391e5d917ae95ee9,tidyr was missing in Description file,[![](https://github.com/SticsRPacks/SticsOnR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/7933338559) [![](https://github.com/SticsRPacks/SticsOnR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/7933338550) [![](https://github.com/SticsRPacks/SticsOnR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/7933338554)
 SticsRPacks,SticsPubRTools,SticsRPacks/SticsPubRTools,0,4,0,0,FALSE,https://github.com/SticsRPacks/SticsPubRTools,NA,NA,NA,NA
 SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,19,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,b7b1ee2c0e3191129fab64e60c3ee3734d558fd5,"rewrote get_param_info as for variables (#47)
 
