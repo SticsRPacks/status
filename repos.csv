@@ -14,17 +14,48 @@ SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,0,4,12,0,FALSE,https://github.com/Stic
 Update stats for the case of division by zero",[![](https://github.com/SticsRPacks/CroPlotR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/7572987074) [![](https://github.com/SticsRPacks/CroPlotR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/7572987073)
 SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,22,5,3,5,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,8c387e61cd4ec0a3eb6191d406b0dc66a477b883,Update DESCRIPTION and NEWS files for new release,[![](https://github.com/SticsRPacks/CroptimizR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/7301924387) [![](https://github.com/SticsRPacks/CroptimizR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/7301829512)
 SticsRPacks,SticsContainRs,SticsRPacks/SticsContainRs,0,4,0,0,FALSE,https://github.com/SticsRPacks/SticsContainRs,0,NA,NA,NA
-SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,4,4,7,3,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,091b07ae2b4216efa4477b40adf79d9bf4f2a7b9,SticsRFiles again in Imports,[![](https://github.com/SticsRPacks/SticsOnR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/8001278476) [![](https://github.com/SticsRPacks/SticsOnR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/8001278475)
-SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,4,4,7,3,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,4cd5168d411ff6c270977fb9c7ca41e89a91d961,"Fix do wrapper (#19)
+SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,4,4,7,3,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,85c3582359ae654f5e854ee3167adb0c0ddd1083,"New release 1.2.0 (#20)
 
-* fix: importing %do% in fun header + some reformatting
+* updates: added new JavaStics version/java version, info about how to handle the stics exe generation under MacOS (ref to the JavaStics doc), fixed internal page links.
+Fix: mask messages about common names of the SticsRFiles and xml2 xml_document class name.
 
-* trying to fix SticsRTests errors using foreach::",[![](https://github.com/SticsRPacks/SticsOnR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/7976052505)
+* Update CITATION.cff
+
+* updates for a new release + little fix about a note about a global variable "".""
+
+* Update CITATION.cff
+
+* fix: SticsRFiles in imports
+
+* Update CITATION.cff
+
+* SticsRFiles in suggests
+
+* Update CITATION.cff
+
+* trying to force main install in checks as in CroptimizR
+
+* let SticsRFiles in Imports and Remotes
+
+* Update CITATION.cff
+
+* restoring previous install config for SticsRFiles@main
+
+* SticsRFiles again in Imports
+
+* Update CITATION.cff
+
+* new release 1.2.0
+
+* Update CITATION.cff
+
+---------
+
+Co-authored-by: plecharpent <plecharpent@users.noreply.github.com>",[![](https://github.com/SticsRPacks/SticsOnR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/8021559646) [![](https://github.com/SticsRPacks/SticsOnR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/8021348286) [![](https://github.com/SticsRPacks/SticsOnR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/8021559644)
 SticsRPacks,SticsPubRTools,SticsRPacks/SticsPubRTools,0,4,0,0,FALSE,https://github.com/SticsRPacks/SticsPubRTools,NA,NA,NA,NA
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,19,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,6a401e7c9b332628c94cd7679863d2739499315f,trying to reduce examples execution duration following CRAN checks results,[![](https://github.com/SticsRPacks/SticsRFiles/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/8001588258) [![](https://github.com/SticsRPacks/SticsRFiles/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/8001588256)
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,19,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,c242245738780cb9734757026d4dbb77cbc646da,"documentatin updates: description, news, readme, man",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/7991990366)
-SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,8,5,2,2,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,33f5637d76d7551f79e1355cf53a0b1002cba634,Merge branch 'main' of https://github.com/SticsRPacks/SticsRPacks into main,[![](https://github.com/SticsRPacks/SticsRPacks/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/8002795403)
-SticsRPacks,SticsRTests,SticsRPacks/SticsRTests,2,4,1,1,FALSE,https://github.com/SticsRPacks/SticsRTests,NA,0f178fd464b8b67470df2699d8b610f0606ee19c,fix: balance files use,[![](https://github.com/SticsRPacks/SticsRTests/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRTests/actions/runs/8002115873)
+SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,19,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,69e5fdde933c7d59e7baf36d824b8ba861f9155a,fix: is_stics_param (#62),[![](https://github.com/SticsRPacks/SticsRFiles/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/8021720157) [![](https://github.com/SticsRPacks/SticsRFiles/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/8021720155) [![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/8021720152)
+SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,8,5,2,2,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,5454282efd81cedffaeaad9510d8a2b57efd9e46,fix: news,[![](https://github.com/SticsRPacks/SticsRPacks/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/8021910040)
+SticsRPacks,SticsRTests,SticsRPacks/SticsRTests,2,4,1,1,FALSE,https://github.com/SticsRPacks/SticsRTests,NA,NA,NA,NA
 SticsRPacks,data,SticsRPacks/data,0,4,0,0,FALSE,https://github.com/SticsRPacks/data,0,NA,NA,NA
 SticsRPacks,documentation,SticsRPacks/documentation,1,4,0,0,FALSE,https://github.com/SticsRPacks/documentation,1,NA,NA,NA
 SticsRPacks,sandbox,SticsRPacks/sandbox,0,6,0,0,FALSE,https://github.com/SticsRPacks/sandbox,0,NA,NA,NA
