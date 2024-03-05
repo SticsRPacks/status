@@ -57,8 +57,10 @@ Co-authored-by: plecharpent <plecharpent@users.noreply.github.com>",[![](https:/
 SticsRPacks,SticsPubRTools,SticsRPacks/SticsPubRTools,0,4,0,0,FALSE,https://github.com/SticsRPacks/SticsPubRTools,NA,NA,NA,NA
 SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,18,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,06e52a419b8bd4fb71b5c4913e8b07a85f35012e,"fix: ordering versions number, bug about updating versions info file (#64)",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/8138040962) [![](https://github.com/SticsRPacks/SticsRFiles/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/8138040975)
 SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,4,18,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,69e5fdde933c7d59e7baf36d824b8ba861f9155a,fix: is_stics_param (#62),[![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/8021720152)
-SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,8,5,2,2,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,6e3085f6ff04b525c784266ee4e7a37e1d48a6ab,missing README.md update,[![](https://github.com/SticsRPacks/SticsRPacks/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/8046625471)
-SticsRPacks,SticsRTests,SticsRPacks/SticsRTests,2,4,1,1,FALSE,https://github.com/SticsRPacks/SticsRTests,NA,NA,NA,NA
+SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,8,5,2,2,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,b6633854f34310ca2bdcaebb8871f30cf48be25f,"Update check-standard.yaml
+
+fix : install java 17",[![](https://github.com/SticsRPacks/SticsRPacks/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/8154435928)
+SticsRPacks,SticsRTests,SticsRPacks/SticsRTests,2,4,1,1,FALSE,https://github.com/SticsRPacks/SticsRTests,NA,b58eb05b8549f408e48fb137d6b73daf2d432d27,Added STICS V10.1.0,[![](https://github.com/SticsRPacks/SticsRTests/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRTests/actions/runs/8143382280)
 SticsRPacks,data,SticsRPacks/data,0,4,0,0,FALSE,https://github.com/SticsRPacks/data,0,NA,NA,NA
 SticsRPacks,documentation,SticsRPacks/documentation,1,4,0,0,FALSE,https://github.com/SticsRPacks/documentation,1,NA,NA,NA
 SticsRPacks,sandbox,SticsRPacks/sandbox,0,6,0,0,FALSE,https://github.com/SticsRPacks/sandbox,0,NA,NA,NA
