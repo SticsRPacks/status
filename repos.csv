@@ -1,18 +1,21 @@
 owner,repo,full_name,stargazers_count,subscribers_count,open_issues_count,forks_count,fork,html_url_repo,watchers_count,commit_id,commit_message,badge
 SticsRPacks,.github,SticsRPacks/.github,0,4,0,0,FALSE,https://github.com/SticsRPacks/.github,0,NA,NA,NA
-SticsRPacks,CroPLotR,SticsRPacks/CroPlotR,0,3,15,0,FALSE,https://github.com/SticsRPacks/CroPlotR,NA,6aa8a81ba8aa9a15e50c70920e9a8cae7d935443,"Merge pull request #33 from SticsRPacks/sbuis-patch-1
+SticsRPacks,CroPLotR,SticsRPacks/CroPlotR,0,3,13,0,FALSE,https://github.com/SticsRPacks/CroPlotR,NA,6aa8a81ba8aa9a15e50c70920e9a8cae7d935443,"Merge pull request #33 from SticsRPacks/sbuis-patch-1
 
 Added Cyrille in the list of authors",[![](https://github.com/SticsRPacks/CroPlotR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/7221299626)
-SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,0,3,15,0,FALSE,https://github.com/SticsRPacks/CroPlotR,0,6aa8a81ba8aa9a15e50c70920e9a8cae7d935443,"Merge pull request #33 from SticsRPacks/sbuis-patch-1
+SticsRPacks,CroPLotR,SticsRPacks/CroPlotR,0,3,13,0,FALSE,https://github.com/SticsRPacks/CroPlotR,NA,fa5624472e27fa1d4ead0ba4f056623601a05976,"Removed plot title for case all_situations, 2nd attempt",[![](https://github.com/SticsRPacks/CroPlotR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/8366513569) [![](https://github.com/SticsRPacks/CroPlotR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/8366513573) [![](https://github.com/SticsRPacks/CroPlotR/workflows/Snapshot%20Comparison/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/8366513570)
+SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,0,3,13,0,FALSE,https://github.com/SticsRPacks/CroPlotR,0,6aa8a81ba8aa9a15e50c70920e9a8cae7d935443,"Merge pull request #33 from SticsRPacks/sbuis-patch-1
 
 Added Cyrille in the list of authors",[![](https://github.com/SticsRPacks/CroPlotR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/7221299626)
+SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,0,3,13,0,FALSE,https://github.com/SticsRPacks/CroPlotR,0,fa5624472e27fa1d4ead0ba4f056623601a05976,"Removed plot title for case all_situations, 2nd attempt",[![](https://github.com/SticsRPacks/CroPlotR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/8366513569) [![](https://github.com/SticsRPacks/CroPlotR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/8366513573) [![](https://github.com/SticsRPacks/CroPlotR/workflows/Snapshot%20Comparison/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/8366513570)
 SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,22,4,3,5,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,46030538d2fb260b04f61386669f8774a2e7a9f3,"Merge pull request #15 from SticsRPacks/add-licence-file
 
 Add licence + add to .Rbuildignore",[![](https://github.com/SticsRPacks/CroptimizR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/8357611303) [![](https://github.com/SticsRPacks/CroptimizR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/8357611319)
 SticsRPacks,SticsContainRs,SticsRPacks/SticsContainRs,0,4,0,0,FALSE,https://github.com/SticsRPacks/SticsContainRs,0,NA,NA,NA
 SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,4,3,5,3,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,43b668cee45360593aea9739e7cd07355ce4217f,"Merge pull request #21 from SticsRPacks/add-licence-file
 
-add license file + add to .Rbuildignore",[![](https://github.com/SticsRPacks/SticsOnR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/8357772910) [![](https://github.com/SticsRPacks/SticsOnR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/8357772906)
+add license file + add to .Rbuildignore",[![](https://github.com/SticsRPacks/SticsOnR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/8357772906)
+SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,4,3,5,3,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,4ee84ab93e17809c9bff1d2f17531fd10eb2442a,"indentations, lines length, functions @return, ...",[![](https://github.com/SticsRPacks/SticsOnR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/8361122727)
 SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,4,3,5,3,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,85c3582359ae654f5e854ee3167adb0c0ddd1083,"New release 1.2.0 (#20)
 
 * updates: added new JavaStics version/java version, info about how to handle the stics exe generation under MacOS (ref to the JavaStics doc), fixed internal page links.
@@ -52,8 +55,14 @@ Fix: mask messages about common names of the SticsRFiles and xml2 xml_document c
 
 Co-authored-by: plecharpent <plecharpent@users.noreply.github.com>",[![](https://github.com/SticsRPacks/SticsOnR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/8021559644)
 SticsRPacks,SticsPubRTools,SticsRPacks/SticsPubRTools,0,4,0,0,FALSE,https://github.com/SticsRPacks/SticsPubRTools,NA,NA,NA,NA
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,3,20,4,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,69e5fdde933c7d59e7baf36d824b8ba861f9155a,fix: is_stics_param (#62),[![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/8021720152)
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,3,20,4,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,f50eb538219270efd5735b673403b0b6c3e713c4,fix: finding corresponding usm obs/output files for a usm list (exact match in file names) in workspace or usms sub-dirs,[![](https://github.com/SticsRPacks/SticsRFiles/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/8357886612) [![](https://github.com/SticsRPacks/SticsRFiles/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/8357886610)
+SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,3,21,4,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,69e5fdde933c7d59e7baf36d824b8ba861f9155a,fix: is_stics_param (#62),[![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/8021720152)
+SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,3,21,4,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,c779b137bc81593c32847e6514c86bd1b10d6653,"Fix get file with usm names (#71)
+
+* fix: finding corresponding usm obs/output files for a usm list (exact match in file names) in workspace or usms sub-dirs
+
+* fix: pattern in get_file, call to parse_mixed_file
+
+* fix: pattern in get_file, call to parse_mixed_file",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/8360665507) [![](https://github.com/SticsRPacks/SticsRFiles/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/8360665516)
 SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,8,4,2,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,f518ad0272a702e0ae2b3d042fd3fc139600015b,Update license (LGPL),[![](https://github.com/SticsRPacks/SticsRPacks/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/8357277384) [![](https://github.com/SticsRPacks/SticsRPacks/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/8357277376)
 SticsRPacks,SticsRTests,SticsRPacks/SticsRTests,2,4,1,1,FALSE,https://github.com/SticsRPacks/SticsRTests,NA,NA,NA,NA
 SticsRPacks,data,SticsRPacks/data,0,4,0,0,FALSE,https://github.com/SticsRPacks/data,0,NA,NA,NA
