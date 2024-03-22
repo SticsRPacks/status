@@ -56,13 +56,6 @@ Fix: mask messages about common names of the SticsRFiles and xml2 xml_document c
 Co-authored-by: plecharpent <plecharpent@users.noreply.github.com>",[![](https://github.com/SticsRPacks/SticsOnR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/8021559644)
 SticsRPacks,SticsPubRTools,SticsRPacks/SticsPubRTools,0,4,0,0,FALSE,https://github.com/SticsRPacks/SticsPubRTools,NA,NA,NA,NA
 SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,3,21,4,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,69e5fdde933c7d59e7baf36d824b8ba861f9155a,fix: is_stics_param (#62),[![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/8021720152)
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,2,3,21,4,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,c779b137bc81593c32847e6514c86bd1b10d6653,"Fix get file with usm names (#71)
-
-* fix: finding corresponding usm obs/output files for a usm list (exact match in file names) in workspace or usms sub-dirs
-
-* fix: pattern in get_file, call to parse_mixed_file
-
-* fix: pattern in get_file, call to parse_mixed_file",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/8360665507) [![](https://github.com/SticsRPacks/SticsRFiles/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/8360665516)
 SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,8,4,2,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,f518ad0272a702e0ae2b3d042fd3fc139600015b,Update license (LGPL),[![](https://github.com/SticsRPacks/SticsRPacks/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/8357277384) [![](https://github.com/SticsRPacks/SticsRPacks/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/8357277376)
 SticsRPacks,SticsRTests,SticsRPacks/SticsRTests,2,4,1,1,FALSE,https://github.com/SticsRPacks/SticsRTests,NA,NA,NA,NA
 SticsRPacks,data,SticsRPacks/data,0,4,0,0,FALSE,https://github.com/SticsRPacks/data,0,NA,NA,NA
