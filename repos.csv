@@ -49,7 +49,22 @@ Fix: mask messages about common names of the SticsRFiles and xml2 xml_document c
 
 Co-authored-by: plecharpent <plecharpent@users.noreply.github.com>",[![](https://github.com/SticsRPacks/SticsOnR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/8021559644)
 SticsRPacks,SticsPubRTools,SticsRPacks/SticsPubRTools,0,4,0,0,FALSE,https://github.com/SticsRPacks/SticsPubRTools,NA,NA,NA,NA
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,3,3,21,4,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,1ede242d3bbb1765cd7a1f48b74edddf0b894c6e,Merge branch 'main' into plecharpent/refacto-upgrade-xml,[![](https://github.com/SticsRPacks/SticsRFiles/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/8482234786) [![](https://github.com/SticsRPacks/SticsRFiles/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/8482234790) [![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/8482234787)
+SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,3,3,21,4,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,331b1f302b79ffe2f01f46c7eff2e2cd8fe08d52,"add functions to compute Julian day from year of simulation start (#66)
+
+* add functions to compute Julian day from year of simulation start
+
+* fix bug after remark from S. Buis
+
+* rename functions
+
+---------
+
+Co-authored-by: Patrice Lecharpentier <patrice.lecharpentier@inrae.fr>",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/8626942289)
+SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,3,3,21,4,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,e9751a37216702b9651280f8745dd1c02e1527c0,"improvement of compute_day_from_date (#81)
+
+* removed man for internal func, adapted comput_day_from_date for a vector of dates, tests added
+
+* update man: for dates vector",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/8630554332) [![](https://github.com/SticsRPacks/SticsRFiles/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/8630554334)
 SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,9,4,3,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,f518ad0272a702e0ae2b3d042fd3fc139600015b,Update license (LGPL),[![](https://github.com/SticsRPacks/SticsRPacks/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/8357277384) [![](https://github.com/SticsRPacks/SticsRPacks/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/8357277376)
 SticsRPacks,SticsRTests,SticsRPacks/SticsRTests,2,4,1,1,FALSE,https://github.com/SticsRPacks/SticsRTests,NA,NA,NA,NA
 SticsRPacks,data,SticsRPacks/data,0,4,0,0,FALSE,https://github.com/SticsRPacks/data,0,NA,NA,NA
