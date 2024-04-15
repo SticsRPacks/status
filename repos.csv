@@ -49,22 +49,7 @@ Fix: mask messages about common names of the SticsRFiles and xml2 xml_document c
 
 Co-authored-by: plecharpent <plecharpent@users.noreply.github.com>",[![](https://github.com/SticsRPacks/SticsOnR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/8021559644)
 SticsRPacks,SticsPubRTools,SticsRPacks/SticsPubRTools,0,4,0,0,FALSE,https://github.com/SticsRPacks/SticsPubRTools,NA,NA,NA,NA
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,3,3,21,4,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,aac93773c8dfc92f54f662733aeb0b396fa22123,"some fixes in plt files, expand_stics_names (if header exists)",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/8648211775) [![](https://github.com/SticsRPacks/SticsRFiles/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/8648211777)
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,3,3,21,4,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,af7377dd3747590bd3ea56b555f74e38e22733cb,"preparing new release and submission (#82)
-
-* removed man for internal func, adapted comput_day_from_date for a vector of dates, tests added
-
-* update man: for dates vector
-
-* added rhub workflow for rhub
-
-* news update, site, description
-
-* Update CITATION.cff
-
----------
-
-Co-authored-by: plecharpent <plecharpent@users.noreply.github.com>",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/8643748081)
+SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,3,3,21,4,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,e1507d6ed247210e9cad61a39961a8bf6d5051be,"Files updates and new xsd files added to exdata for version 11.0, and xml_document class adaptation for xsd files use",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/8689020302) [![](https://github.com/SticsRPacks/SticsRFiles/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/8689020301) [![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/8689020303)
 SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,9,4,3,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,f518ad0272a702e0ae2b3d042fd3fc139600015b,Update license (LGPL),[![](https://github.com/SticsRPacks/SticsRPacks/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/8357277384) [![](https://github.com/SticsRPacks/SticsRPacks/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/8357277376)
 SticsRPacks,SticsRTests,SticsRPacks/SticsRTests,2,4,1,1,FALSE,https://github.com/SticsRPacks/SticsRTests,NA,NA,NA,NA
 SticsRPacks,data,SticsRPacks/data,0,4,0,0,FALSE,https://github.com/SticsRPacks/data,0,NA,NA,NA
