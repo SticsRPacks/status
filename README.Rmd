@@ -14,7 +14,7 @@ repos:
   - SticsRFiles
   - SticsOnR
   - CroptimizR
-  - CroPLotR
+  - CroPlotR
   - SticsRTests
   - SticsPubRTools
   #- SticsTestR
