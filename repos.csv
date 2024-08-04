@@ -10,7 +10,7 @@ SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,23,5,2,6,FALSE,https://github.com/
 
 Fixed (obs and sim) data structure check",[![](https://github.com/SticsRPacks/CroptimizR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/9957747320)
 SticsRPacks,SticsContainRs,SticsRPacks/SticsContainRs,0,4,0,0,FALSE,https://github.com/SticsRPacks/SticsContainRs,0,NA,NA,NA
-SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,4,4,8,3,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,85c3582359ae654f5e854ee3167adb0c0ddd1083,"New release 1.2.0 (#20)
+SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,4,3,8,3,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,85c3582359ae654f5e854ee3167adb0c0ddd1083,"New release 1.2.0 (#20)
 
 * updates: added new JavaStics version/java version, info about how to handle the stics exe generation under MacOS (ref to the JavaStics doc), fixed internal page links.
 Fix: mask messages about common names of the SticsRFiles and xml2 xml_document class name.
@@ -48,11 +48,11 @@ Fix: mask messages about common names of the SticsRFiles and xml2 xml_document c
 ---------
 
 Co-authored-by: plecharpent <plecharpent@users.noreply.github.com>",[![](https://github.com/SticsRPacks/SticsOnR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/8021559644)
-SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,4,4,8,3,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,8cf07ff444aced6aa0ddd0ab55264e9c8726a7a4,"Merge pull request #28 from SticsRPacks/handle_dominance
+SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,4,3,8,3,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,8cf07ff444aced6aa0ddd0ab55264e9c8726a7a4,"Merge pull request #28 from SticsRPacks/handle_dominance
 
 Take into account Dominance column for intercrops",[![](https://github.com/SticsRPacks/SticsOnR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/9994166643) [![](https://github.com/SticsRPacks/SticsOnR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/9994166666)
 SticsRPacks,SticsPubRTools,SticsRPacks/SticsPubRTools,0,4,0,0,FALSE,https://github.com/SticsRPacks/SticsPubRTools,NA,NA,NA,NA
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,3,4,27,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,389a53fa8313c9a3860a0a09d26251daeadf6d2e,Merge branch 'main' into add/xml-upgrades/v11,[![](https://github.com/SticsRPacks/SticsRFiles/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/10060730725) [![](https://github.com/SticsRPacks/SticsRFiles/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/10060730728) [![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/10060730727)
+SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,3,3,27,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,389a53fa8313c9a3860a0a09d26251daeadf6d2e,Merge branch 'main' into add/xml-upgrades/v11,[![](https://github.com/SticsRPacks/SticsRFiles/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/10060730725) [![](https://github.com/SticsRPacks/SticsRFiles/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/10060730728) [![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/10060730727)
 SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,10,4,3,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,f518ad0272a702e0ae2b3d042fd3fc139600015b,Update license (LGPL),[![](https://github.com/SticsRPacks/SticsRPacks/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/8357277384) [![](https://github.com/SticsRPacks/SticsRPacks/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/8357277376)
 SticsRPacks,SticsRTests,SticsRPacks/SticsRTests,2,4,1,1,FALSE,https://github.com/SticsRPacks/SticsRTests,NA,NA,NA,NA
 SticsRPacks,data,SticsRPacks/data,0,4,0,0,FALSE,https://github.com/SticsRPacks/data,0,NA,NA,NA
