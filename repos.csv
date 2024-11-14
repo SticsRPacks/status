@@ -2,13 +2,10 @@ owner,repo,full_name,stargazers_count,subscribers_count,open_issues_count,forks_
 SticsRPacks,.github,SticsRPacks/.github,0,4,0,0,FALSE,https://github.com/SticsRPacks/.github,0,NA,NA,NA
 SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,1,3,16,1,FALSE,https://github.com/SticsRPacks/CroPlotR,NA,74b16e6330ca5f69d05263e424c2bac9a91cf414,Fixed add of title in dynamic plots,[![](https://github.com/SticsRPacks/CroPlotR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/9959574200) [![](https://github.com/SticsRPacks/CroPlotR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/9959574210) [![](https://github.com/SticsRPacks/CroPlotR/workflows/Snapshot%20Comparison/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/9959574201)
 SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,1,3,16,1,FALSE,https://github.com/SticsRPacks/CroPlotR,NA,e804e766886e4bbf7518a3c137882c4bd834cbec,Up documentation,[![](https://github.com/SticsRPacks/CroPlotR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/8970280333)
-SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,23,5,3,6,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,0e3a73abd6373c6dde4f2e96e354fbf8c3f692c1,"Merge pull request #19 from SticsRPacks/updte-bayesiantools-version
+SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,23,5,3,6,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,17b8f5ce19b791dd0b0c885bb2b0de6ebd669917,"Merge pull request #26 from SticsRPacks/prepare-release-070
 
-Update BayesianTools version",[![](https://github.com/SticsRPacks/CroptimizR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/9269692005)
-SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,23,5,3,6,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,2769474050625faa9f1224ab88c87f09bcc8cc84,"Merge pull request #24 from SticsRPacks/fix-compute_eq_const
-
-Fix compute_eq_const",[![](https://github.com/SticsRPacks/CroptimizR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/11130705435)
-SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,23,5,3,6,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,d4990920667b3ad081135d7f18edb3c4933941c1,Prepared DESCRIPTION and NEWS files for new release,[![](https://github.com/SticsRPacks/CroptimizR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/11816311005)
+Prepare new release",[![](https://github.com/SticsRPacks/CroptimizR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/11821381349)
+SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,23,5,3,6,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,1a2df8f804dbe393f7b32109e1a0d892f39e7c28,Update CITATION.cff,[![](https://github.com/SticsRPacks/CroptimizR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/11835020190)
 SticsRPacks,SticsContainRs,SticsRPacks/SticsContainRs,0,4,0,0,FALSE,https://github.com/SticsRPacks/SticsContainRs,0,NA,NA,NA
 SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,5,3,8,3,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,85c3582359ae654f5e854ee3167adb0c0ddd1083,"New release 1.2.0 (#20)
 
@@ -50,8 +47,18 @@ Fix: mask messages about common names of the SticsRFiles and xml2 xml_document c
 Co-authored-by: plecharpent <plecharpent@users.noreply.github.com>",[![](https://github.com/SticsRPacks/SticsOnR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/8021559644)
 SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,5,3,8,3,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,85d39bf56a7b425ea4317907dca4dc335bb62e3c,"Select first line if got version information on multiple lines (commit sha ,...) (#29)",[![](https://github.com/SticsRPacks/SticsOnR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/11214187434) [![](https://github.com/SticsRPacks/SticsOnR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/11214187431)
 SticsRPacks,SticsPubRTools,SticsRPacks/SticsPubRTools,0,4,0,0,FALSE,https://github.com/SticsRPacks/SticsPubRTools,NA,NA,NA,NA
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,3,3,30,4,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,a3ad1f655f7d245ecc8c42feb211db9bc65a0986,updates after CRAN submission for version 1.5.0,[![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/11817171566)
-SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,10,4,5,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,f518ad0272a702e0ae2b3d042fd3fc139600015b,Update license (LGPL),[![](https://github.com/SticsRPacks/SticsRPacks/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/8357277376)
+SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,3,3,29,4,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,d0649b240f99fcaca18d39966e482b293885a0fc,"updates after CRAN submission for version 1.5.0 (#117)
+
+* updates after CRAN submission for version 1.5.0
+
+* Update CITATION.cff
+
+---------
+
+Co-authored-by: plecharpent <plecharpent@users.noreply.github.com>",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/11817450363) [![](https://github.com/SticsRPacks/SticsRFiles/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/11817450366)
+SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,10,4,4,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,78feb3f64ec81efbe226073acaeb5132fb3087c4,"Merge pull request #28 from SticsRPacks/prep-new-release
+
+updates for release 0.7.0",[![](https://github.com/SticsRPacks/SticsRPacks/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/11817655317)
 SticsRPacks,SticsRTests,SticsRPacks/SticsRTests,2,4,1,1,FALSE,https://github.com/SticsRPacks/SticsRTests,NA,NA,NA,NA
 SticsRPacks,data,SticsRPacks/data,0,4,0,0,FALSE,https://github.com/SticsRPacks/data,0,NA,NA,NA
 SticsRPacks,documentation,SticsRPacks/documentation,1,4,2,1,FALSE,https://github.com/SticsRPacks/documentation,1,NA,NA,NA
