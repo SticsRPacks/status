@@ -4,6 +4,7 @@ SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,1,3,20,1,FALSE,https://github.com/Stic
 SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,1,3,20,1,FALSE,https://github.com/SticsRPacks/CroPlotR,NA,e804e766886e4bbf7518a3c137882c4bd834cbec,Up documentation,[![](https://github.com/SticsRPacks/CroPlotR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/8970280333)
 SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,23,5,7,6,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,NA,NA,NA
 SticsRPacks,SticsContainRs,SticsRPacks/SticsContainRs,0,4,0,0,FALSE,https://github.com/SticsRPacks/SticsContainRs,0,NA,NA,NA
+SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,5,3,12,3,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,322303cc855ec126d41d1d4ad73699cc0ea7cb73,Added call to operation function,[![](https://github.com/SticsRPacks/SticsOnR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/12355665842)
 SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,5,3,12,3,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,85c3582359ae654f5e854ee3167adb0c0ddd1083,"New release 1.2.0 (#20)
 
 * updates: added new JavaStics version/java version, info about how to handle the stics exe generation under MacOS (ref to the JavaStics doc), fixed internal page links.
