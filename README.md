@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/SticsRPacks/status/workflows/Render%20Status/badge.svg)  
-2024-12-19 12:38:19 UTC
+2024-12-20 12:47:18 UTC
 
 | Repo                                                                  | Stars | Subscribers | Issues | Forks | Status                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Commit                                                                                                                                                                                                                |
 |:----------------------------------------------------------------------|------:|------------:|-------:|------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -19,7 +19,7 @@ GitHub Dashboard
 | [SticsRPacks/CroptimizR](https://github.com/SticsRPacks/CroptimizR)           |    23 |           5 |      7 |     6 |
 | [SticsRPacks/SticsRFiles](https://github.com/SticsRPacks/SticsRFiles)         |     3 |           3 |     34 |     4 |
 | [SticsRPacks/SticsRTests](https://github.com/SticsRPacks/SticsRTests)         |     2 |           4 |      1 |     1 |
-| [SticsRPacks/documentation](https://github.com/SticsRPacks/documentation)     |     1 |           4 |      2 |     1 |
+| [SticsRPacks/documentation](https://github.com/SticsRPacks/documentation)     |     1 |           4 |      1 |     1 |
 | [SticsRPacks/SticsPubRTools](https://github.com/SticsRPacks/SticsPubRTools)   |     0 |           4 |      0 |     0 |
 | [SticsRPacks/.github](https://github.com/SticsRPacks/.github)                 |     0 |           4 |      0 |     0 |
 | [SticsRPacks/data](https://github.com/SticsRPacks/data)                       |     0 |           4 |      0 |     0 |
