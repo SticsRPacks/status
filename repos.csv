@@ -49,8 +49,8 @@ SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,3,3,35,4,FALSE,https://github.co
 * added soil_name as arg in convert_xml2txt and the call of the gen_sol_xsl_file (not anymore in gen_xml2txt), so the param.sol file is now generated using directly the convert_xml2txt function.
 
 * fix: missing fun doc update",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/12711684654) [![](https://github.com/SticsRPacks/SticsRFiles/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/12711684675)
-SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,11,4,8,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,02682c83bc6ed7f9b6f980ed166010998dfbb3f7,Create dependabot.yml,[![](https://github.com/SticsRPacks/SticsRPacks/workflows/.github/workflows/dependabot.yml/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/12280022686)
-SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,11,4,8,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,b17f65051353ef980264e87b67b8d558fc049c23,"Merge pull request #36 from SticsRPacks/dependabot/github_actions/actions/checkout-4
+SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,11,4,9,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,02682c83bc6ed7f9b6f980ed166010998dfbb3f7,Create dependabot.yml,[![](https://github.com/SticsRPacks/SticsRPacks/workflows/.github/workflows/dependabot.yml/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/12280022686)
+SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,11,4,9,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,b17f65051353ef980264e87b67b8d558fc049c23,"Merge pull request #36 from SticsRPacks/dependabot/github_actions/actions/checkout-4
 
 Bump actions/checkout from 3 to 4",[![](https://github.com/SticsRPacks/SticsRPacks/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/12435026605)
 SticsRPacks,SticsRTests,SticsRPacks/SticsRTests,2,4,2,1,FALSE,https://github.com/SticsRPacks/SticsRTests,NA,NA,NA,NA
