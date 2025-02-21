@@ -46,7 +46,7 @@ Fix: mask messages about common names of the SticsRFiles and xml2 xml_document c
 
 Co-authored-by: plecharpent <plecharpent@users.noreply.github.com>",[![](https://github.com/SticsRPacks/SticsOnR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/8021559644)
 SticsRPacks,SticsPubRTools,SticsRPacks/SticsPubRTools,0,4,0,0,FALSE,https://github.com/SticsRPacks/SticsPubRTools,NA,NA,NA,NA
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,4,3,35,4,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,3b467fc21a34f626ab7108270ae57895d3726cff,"Gen soil file txt independently from gen_xml2txt (#127)
+SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,4,3,37,4,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,3b467fc21a34f626ab7108270ae57895d3726cff,"Gen soil file txt independently from gen_xml2txt (#127)
 
 * added soil_name as arg in convert_xml2txt and the call of the gen_sol_xsl_file (not anymore in gen_xml2txt), so the param.sol file is now generated using directly the convert_xml2txt function.
 
