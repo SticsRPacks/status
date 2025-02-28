@@ -52,7 +52,7 @@ SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,11,4,8,3,FALSE,https://github.co
 SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,11,4,8,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,90d5b68cbeee45c6f2d911ee612e2ee01b4a5f7c,"Merge pull request #48 from SticsRPacks/VEZY-patch-1
 
 Add 🔍 on optionnal exercices",[![](https://github.com/SticsRPacks/SticsRPacks/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/13548095760)
-SticsRPacks,SticsRTests,SticsRPacks/SticsRTests,2,4,3,1,FALSE,https://github.com/SticsRPacks/SticsRTests,NA,NA,NA,NA
+SticsRPacks,SticsRTests,SticsRPacks/SticsRTests,2,4,4,1,FALSE,https://github.com/SticsRPacks/SticsRTests,NA,NA,NA,NA
 SticsRPacks,data,SticsRPacks/data,0,4,0,0,FALSE,https://github.com/SticsRPacks/data,0,NA,NA,NA
 SticsRPacks,documentation,SticsRPacks/documentation,1,4,1,0,FALSE,https://github.com/SticsRPacks/documentation,1,NA,NA,NA
 SticsRPacks,sandbox,SticsRPacks/sandbox,0,6,0,0,FALSE,https://github.com/SticsRPacks/sandbox,0,NA,NA,NA

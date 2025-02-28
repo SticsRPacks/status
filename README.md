@@ -2,7 +2,7 @@ GitHub Dashboard
 ================
 
 ![](https://github.com/SticsRPacks/status/workflows/Render%20Status/badge.svg)  
-2025-02-27 12:37:33 UTC
+2025-02-28 12:38:46 UTC
 
 | Repo                                                                  | Stars | Subscribers | Issues | Forks | Status                                                                                                                                                                                                                                                                                                          | Commit                                                                                                                                                                         |
 |:----------------------------------------------------------------------|------:|------------:|-------:|------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -18,7 +18,7 @@ GitHub Dashboard
 
 | Repo                                                                          | Stars | Subscribers | Issues | Forks |
 |:------------------------------------------------------------------------------|------:|------------:|-------:|------:|
-| [SticsRPacks/SticsRTests](https://github.com/SticsRPacks/SticsRTests)         |     2 |           4 |      3 |     1 |
+| [SticsRPacks/SticsRTests](https://github.com/SticsRPacks/SticsRTests)         |     2 |           4 |      4 |     1 |
 | [SticsRPacks/documentation](https://github.com/SticsRPacks/documentation)     |     1 |           4 |      1 |     0 |
 | [SticsRPacks/SticsPubRTools](https://github.com/SticsRPacks/SticsPubRTools)   |     0 |           4 |      0 |     0 |
 | [SticsRPacks/.github](https://github.com/SticsRPacks/.github)                 |     0 |           4 |      0 |     0 |
