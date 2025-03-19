@@ -3,26 +3,7 @@ SticsRPacks,.github,SticsRPacks/.github,0,3,0,0,FALSE,https://github.com/SticsRP
 SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,1,2,19,1,FALSE,https://github.com/SticsRPacks/CroPlotR,NA,e804e766886e4bbf7518a3c137882c4bd834cbec,Up documentation,[![](https://github.com/SticsRPacks/CroPlotR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/8970280333)
 SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,26,4,4,6,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,bec1d6e91b02736abd0aeee71e0f20121ab4705b,Improved screen display,[![](https://github.com/SticsRPacks/CroptimizR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/13840252130)
 SticsRPacks,SticsContainRs,SticsRPacks/SticsContainRs,0,3,0,0,FALSE,https://github.com/SticsRPacks/SticsContainRs,0,NA,NA,NA
-SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,6,2,11,4,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,3f708359c2ee93425286657fec1199418bfe10d8,"Fix wrapper successive (#46)
-
-* fix: some linting probs
-
-* wrong destination names of recup.tmp and snow_variables.txt in case of successive runs
-
-* Style code (GHA)
-
-* fix: some linting probs (#47)
-
-* fix code formatting
-
-* reimplementation of calulation for is successive and is previous usm for avoiding NA values (done in new functions), added a stop in successive mode when snow variables file or recup file is missing, the succession is broken, fix snow_variables.txt copy if needed
-
-* Style code (GHA)
-
----------
-
-Co-authored-by: plecharpent <plecharpent@users.noreply.github.com>",[![](https://github.com/SticsRPacks/SticsOnR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/13919554273) [![](https://github.com/SticsRPacks/SticsOnR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/13919554311)
-SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,6,2,11,4,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,85c3582359ae654f5e854ee3167adb0c0ddd1083,"New release 1.2.0 (#20)
+SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,6,2,12,4,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,85c3582359ae654f5e854ee3167adb0c0ddd1083,"New release 1.2.0 (#20)
 
 * updates: added new JavaStics version/java version, info about how to handle the stics exe generation under MacOS (ref to the JavaStics doc), fixed internal page links.
 Fix: mask messages about common names of the SticsRFiles and xml2 xml_document class name.
