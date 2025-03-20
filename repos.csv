@@ -3,50 +3,23 @@ SticsRPacks,.github,SticsRPacks/.github,0,3,0,0,FALSE,https://github.com/SticsRP
 SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,1,2,19,1,FALSE,https://github.com/SticsRPacks/CroPlotR,NA,e804e766886e4bbf7518a3c137882c4bd834cbec,Up documentation,[![](https://github.com/SticsRPacks/CroPlotR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/8970280333)
 SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,26,4,4,6,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,bec1d6e91b02736abd0aeee71e0f20121ab4705b,Improved screen display,[![](https://github.com/SticsRPacks/CroptimizR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/13840252130)
 SticsRPacks,SticsContainRs,SticsRPacks/SticsContainRs,0,3,0,0,FALSE,https://github.com/SticsRPacks/SticsContainRs,0,NA,NA,NA
-SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,6,2,12,4,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,85c3582359ae654f5e854ee3167adb0c0ddd1083,"New release 1.2.0 (#20)
+SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,6,2,11,4,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,126df8c26a3194a81deb57822cc481c07b660763,"changes from the last release (#50)
 
-* updates: added new JavaStics version/java version, info about how to handle the stics exe generation under MacOS (ref to the JavaStics doc), fixed internal page links.
-Fix: mask messages about common names of the SticsRFiles and xml2 xml_document class name.
+* changes from the last release
 
-* Update CITATION.cff
+* Update DESCRIPTION
 
-* updates for a new release + little fix about a note about a global variable "".""
-
-* Update CITATION.cff
-
-* fix: SticsRFiles in imports
+* Update NEWS.md
 
 * Update CITATION.cff
 
-* SticsRFiles in suggests
-
-* Update CITATION.cff
-
-* trying to force main install in checks as in CroptimizR
-
-* let SticsRFiles in Imports and Remotes
-
-* Update CITATION.cff
-
-* restoring previous install config for SticsRFiles@main
-
-* SticsRFiles again in Imports
-
-* Update CITATION.cff
-
-* new release 1.2.0
-
-* Update CITATION.cff
-
----------
-
-Co-authored-by: plecharpent <plecharpent@users.noreply.github.com>",[![](https://github.com/SticsRPacks/SticsOnR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/8021559644)
+* update for recent versions of JavaSTICS and java version dependency",[![](https://github.com/SticsRPacks/SticsOnR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/13966232019) [![](https://github.com/SticsRPacks/SticsOnR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/13966129755) [![](https://github.com/SticsRPacks/SticsOnR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/13966232021)
 SticsRPacks,SticsPubRTools,SticsRPacks/SticsPubRTools,0,3,0,0,FALSE,https://github.com/SticsRPacks/SticsPubRTools,NA,NA,NA,NA
 SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,4,2,36,4,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,f3b6980546f9bf5c8e22d5883e4251bb9d71753e,Merge branch 'main' into add/xml-upgrades/v11,[![](https://github.com/SticsRPacks/SticsRFiles/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/13649975666) [![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/13649975656)
-SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,11,3,9,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,02682c83bc6ed7f9b6f980ed166010998dfbb3f7,Create dependabot.yml,[![](https://github.com/SticsRPacks/SticsRPacks/workflows/.github/workflows/dependabot.yml/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/12280022686)
-SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,11,3,9,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,7a35a39f275b4627a52d642e0ac485731a2f580e,"Merge pull request #52 from SticsRPacks/tuto-update
+SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,11,3,8,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,02682c83bc6ed7f9b6f980ed166010998dfbb3f7,Create dependabot.yml,[![](https://github.com/SticsRPacks/SticsRPacks/workflows/.github/workflows/dependabot.yml/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/12280022686)
+SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,11,3,8,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,31f85eec03286ad85175b869e21c11bd8156527e,"Merge pull request #54 from SticsRPacks/new-release-0.8
 
-url for downloading the latest JavaSTICS version",[![](https://github.com/SticsRPacks/SticsRPacks/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/13901840000)
+New release 0.8",[![](https://github.com/SticsRPacks/SticsRPacks/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/13966424262)
 SticsRPacks,SticsRTests,SticsRPacks/SticsRTests,2,3,4,1,FALSE,https://github.com/SticsRPacks/SticsRTests,NA,NA,NA,NA
 SticsRPacks,data,SticsRPacks/data,0,3,0,0,FALSE,https://github.com/SticsRPacks/data,0,NA,NA,NA
 SticsRPacks,documentation,SticsRPacks/documentation,1,3,1,0,FALSE,https://github.com/SticsRPacks/documentation,1,NA,NA,NA
