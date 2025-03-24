@@ -1,7 +1,7 @@
 owner,repo,full_name,stargazers_count,subscribers_count,open_issues_count,forks_count,fork,html_url_repo,watchers_count,commit_id,commit_message,badge
 SticsRPacks,.github,SticsRPacks/.github,0,3,0,0,FALSE,https://github.com/SticsRPacks/.github,0,NA,NA,NA
 SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,1,2,19,1,FALSE,https://github.com/SticsRPacks/CroPlotR,NA,e804e766886e4bbf7518a3c137882c4bd834cbec,Up documentation,[![](https://github.com/SticsRPacks/CroPlotR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/8970280333)
-SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,26,4,4,6,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,728c1affc75cef4066f5844f9e81d6608a66dde4,Added post-treatment of results for multi-step case,[![](https://github.com/SticsRPacks/CroptimizR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/13996786324)
+SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,27,4,4,6,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,728c1affc75cef4066f5844f9e81d6608a66dde4,Added post-treatment of results for multi-step case,[![](https://github.com/SticsRPacks/CroptimizR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/13996786324)
 SticsRPacks,SticsContainRs,SticsRPacks/SticsContainRs,0,3,0,0,FALSE,https://github.com/SticsRPacks/SticsContainRs,0,NA,NA,NA
 SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,6,2,11,4,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,126df8c26a3194a81deb57822cc481c07b660763,"changes from the last release (#50)
 
