@@ -25,7 +25,7 @@ SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,6,2,9,4,FALSE,https://github.com/Stics
 
 R check badge for the main branch",[![](https://github.com/SticsRPacks/SticsOnR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/14757810713) [![](https://github.com/SticsRPacks/SticsOnR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/14757810704)
 SticsRPacks,SticsPubRTools,SticsRPacks/SticsPubRTools,0,3,0,0,FALSE,https://github.com/SticsRPacks/SticsPubRTools,NA,NA,NA,NA
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,4,2,34,4,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,5eb0301c55e7e9aa0bac5af327e8187829f5b659,"removed useless fun and functions' doc updates (#141)
+SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,4,2,35,4,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,5eb0301c55e7e9aa0bac5af327e8187829f5b659,"removed useless fun and functions' doc updates (#141)
 
 * removed useless fun and functions' doc updates
 
@@ -35,7 +35,7 @@ SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,4,2,34,4,FALSE,https://github.co
 
 ---------
 
-Co-authored-by: plecharpent <plecharpent@users.noreply.github.com>",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/14757348556) [![](https://github.com/SticsRPacks/SticsRFiles/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/14757348549) [![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/14757348526)
+Co-authored-by: plecharpent <plecharpent@users.noreply.github.com>",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/14757348526)
 SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,11,3,4,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,02682c83bc6ed7f9b6f980ed166010998dfbb3f7,Create dependabot.yml,[![](https://github.com/SticsRPacks/SticsRPacks/workflows/.github/workflows/dependabot.yml/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/12280022686)
 SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,11,3,4,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,88f138ce704ecbac2f38e8df93285eb1eda9cb75,"Update README.Rmd
 
