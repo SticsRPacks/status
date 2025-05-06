@@ -25,7 +25,7 @@ SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,6,2,9,4,FALSE,https://github.com/Stics
 
 R check badge for the main branch",[![](https://github.com/SticsRPacks/SticsOnR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/14757810713) [![](https://github.com/SticsRPacks/SticsOnR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/14757810704)
 SticsRPacks,SticsPubRTools,SticsRPacks/SticsPubRTools,0,3,0,0,FALSE,https://github.com/SticsRPacks/SticsPubRTools,NA,NA,NA,NA
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,4,2,35,4,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,5eb0301c55e7e9aa0bac5af327e8187829f5b659,"removed useless fun and functions' doc updates (#141)
+SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,4,2,38,4,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,5eb0301c55e7e9aa0bac5af327e8187829f5b659,"removed useless fun and functions' doc updates (#141)
 
 * removed useless fun and functions' doc updates
 
