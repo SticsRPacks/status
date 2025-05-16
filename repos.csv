@@ -24,8 +24,8 @@ SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,6,2,9,4,FALSE,https://github.com/Stics
 SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,6,2,9,4,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,5fc941a7dd1068226328d6659aa4c0c7882f192d,"Update README.Rmd (#52)
 
 R check badge for the main branch",[![](https://github.com/SticsRPacks/SticsOnR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/14757810713) [![](https://github.com/SticsRPacks/SticsOnR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/14757810704)
-SticsRPacks,SticsPubRTools,SticsRPacks/SticsPubRTools,0,3,0,0,FALSE,https://github.com/SticsRPacks/SticsPubRTools,NA,6554db22133a424d3a35823695715069c1f74076,fix get_param_info,[![](https://github.com/SticsRPacks/SticsPubRTools/workflows/R/badge.svg)](https://github.com/SticsRPacks/SticsPubRTools/actions/runs/15043427357)
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,4,2,38,4,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,5eb0301c55e7e9aa0bac5af327e8187829f5b659,"removed useless fun and functions' doc updates (#141)
+SticsRPacks,SticsPubRTools,SticsRPacks/SticsPubRTools,0,3,0,0,FALSE,https://github.com/SticsRPacks/SticsPubRTools,NA,6338d1d121b872aa8b79caa20ae9f18ee353552f,"fix: ""kind"" column name with ""file""",[![](https://github.com/SticsRPacks/SticsPubRTools/workflows/R/badge.svg)](https://github.com/SticsRPacks/SticsPubRTools/actions/runs/15047601512)
+SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,4,2,36,4,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,5eb0301c55e7e9aa0bac5af327e8187829f5b659,"removed useless fun and functions' doc updates (#141)
 
 * removed useless fun and functions' doc updates
 
