@@ -25,24 +25,13 @@ SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,6,2,9,4,FALSE,https://github.com/Stics
 
 R check badge for the main branch",[![](https://github.com/SticsRPacks/SticsOnR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/14757810713) [![](https://github.com/SticsRPacks/SticsOnR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/14757810704)
 SticsRPacks,SticsPubRTools,SticsRPacks/SticsPubRTools,0,3,0,0,FALSE,https://github.com/SticsRPacks/SticsPubRTools,NA,6338d1d121b872aa8b79caa20ae9f18ee353552f,"fix: ""kind"" column name with ""file""",[![](https://github.com/SticsRPacks/SticsPubRTools/workflows/R/badge.svg)](https://github.com/SticsRPacks/SticsPubRTools/actions/runs/15047601512)
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,4,2,36,4,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,5eb0301c55e7e9aa0bac5af327e8187829f5b659,"removed useless fun and functions' doc updates (#141)
+SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,4,2,36,4,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,3021600a96147c594a3f04e0f7d0dd19a5ed8866,"Merge pull request #144 from SticsRPacks/fix-download_data
 
-* removed useless fun and functions' doc updates
-
-* useless entry in DESC. file
-
-* Update CITATION.cff
-
----------
-
-Co-authored-by: plecharpent <plecharpent@users.noreply.github.com>",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/14757348526)
+CRAN fix",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/15162018225)
 SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,11,3,4,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,02682c83bc6ed7f9b6f980ed166010998dfbb3f7,Create dependabot.yml,[![](https://github.com/SticsRPacks/SticsRPacks/workflows/.github/workflows/dependabot.yml/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/12280022686)
-SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,11,3,4,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,88f138ce704ecbac2f38e8df93285eb1eda9cb75,"Update README.Rmd
+SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,11,3,4,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,4ebd413031e9afac0263bec8daa9f6aec3d9639d,"Update DESCRIPTION
 
-check badge on main branch",[![](https://github.com/SticsRPacks/SticsRPacks/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/14758962130)
-SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,11,3,4,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,deb52d4d810b3b2ccae90f8ddf6e995e6f07852b,"Merge pull request #60 from SticsRPacks/update-R-dependency
-
-Update dependency to R",[![](https://github.com/SticsRPacks/SticsRPacks/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/14755119446)
+fix: SticsRFiles in Remotes",[![](https://github.com/SticsRPacks/SticsRPacks/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/15158050856) [![](https://github.com/SticsRPacks/SticsRPacks/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/15158050843)
 SticsRPacks,SticsRTests,SticsRPacks/SticsRTests,2,3,4,1,FALSE,https://github.com/SticsRPacks/SticsRTests,NA,NA,NA,NA
 SticsRPacks,data,SticsRPacks/data,0,3,0,0,FALSE,https://github.com/SticsRPacks/data,0,NA,NA,NA
 SticsRPacks,documentation,SticsRPacks/documentation,1,3,1,0,FALSE,https://github.com/SticsRPacks/documentation,1,NA,NA,NA
