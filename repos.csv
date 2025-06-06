@@ -1,8 +1,14 @@
 owner,repo,full_name,stargazers_count,subscribers_count,open_issues_count,forks_count,fork,html_url_repo,watchers_count,commit_id,commit_message,badge
 SticsRPacks,.github,SticsRPacks/.github,0,3,0,0,FALSE,https://github.com/SticsRPacks/.github,0,NA,NA,NA
-SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,1,3,22,1,FALSE,https://github.com/SticsRPacks/CroPlotR,NA,00294e496857157256960deb9bcda5224e1fe672,"Merge pull request #68 from SticsRPacks/remove-dependency-to-stringr
+SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,1,3,23,1,FALSE,https://github.com/SticsRPacks/CroPlotR,NA,00294e496857157256960deb9bcda5224e1fe672,"Merge pull request #68 from SticsRPacks/remove-dependency-to-stringr
 
 Removed dependency to stringr",[![](https://github.com/SticsRPacks/CroPlotR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/15441211658)
+SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,1,3,23,1,FALSE,https://github.com/SticsRPacks/CroPlotR,NA,3b687422be41b27b0fe5ae0fbf4ed3de7d3ca036,"Update test-scatter-plots.R
+
+Remove sd if not required",[![](https://github.com/SticsRPacks/CroPlotR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/15470805945) [![](https://github.com/SticsRPacks/CroPlotR/workflows/Snapshot%20Comparison/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/15470805957)
+SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,1,3,23,1,FALSE,https://github.com/SticsRPacks/CroPlotR,NA,812c177212fa361e8c1156ee29a081cf9539ec7f,"Merge pull request #71 from SticsRPacks/revert-merge-57
+
+Roll-back to previous main version (before accidental merge of #57)",[![](https://github.com/SticsRPacks/CroPlotR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/15470076265)
 SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,28,4,7,6,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,6dc59ea1745324fac5b16c84ff13f334c457b19e,"Merge pull request #51 from SticsRPacks/integration-agmip-IV-protocol
 
 Fix use of deprecated arguments of estim_param in vignettes",[![](https://github.com/SticsRPacks/CroptimizR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/15463756711)
@@ -26,12 +32,12 @@ SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,6,3,9,4,FALSE,https://github.com/Stics
 
 R check badge for the main branch",[![](https://github.com/SticsRPacks/SticsOnR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/14757810713) [![](https://github.com/SticsRPacks/SticsOnR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/14757810704)
 SticsRPacks,SticsPubRTools,SticsRPacks/SticsPubRTools,0,3,0,0,FALSE,https://github.com/SticsRPacks/SticsPubRTools,NA,6338d1d121b872aa8b79caa20ae9f18ee353552f,"fix: ""kind"" column name with ""file""",[![](https://github.com/SticsRPacks/SticsPubRTools/workflows/R/badge.svg)](https://github.com/SticsRPacks/SticsPubRTools/actions/runs/15047601512)
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,4,3,38,4,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,5fc67ea5c90ec4f84d99c328c797130d9ff7f623,Merge branch 'fix-solecrop-dataload' of https://github.com/SticsRPacks/SticsRFiles into fix-solecrop-dataload,[![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/15443085139)
+SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,4,3,36,4,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,5fc67ea5c90ec4f84d99c328c797130d9ff7f623,Merge branch 'fix-solecrop-dataload' of https://github.com/SticsRPacks/SticsRFiles into fix-solecrop-dataload,[![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/15443085139)
 SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,11,3,6,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,02682c83bc6ed7f9b6f980ed166010998dfbb3f7,Create dependabot.yml,[![](https://github.com/SticsRPacks/SticsRPacks/workflows/.github/workflows/dependabot.yml/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/12280022686)
 SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,11,3,6,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,4ebd413031e9afac0263bec8daa9f6aec3d9639d,"Update DESCRIPTION
 
 fix: SticsRFiles in Remotes",[![](https://github.com/SticsRPacks/SticsRPacks/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/15158050843)
-SticsRPacks,SticsRTests,SticsRPacks/SticsRTests,2,3,4,1,FALSE,https://github.com/SticsRPacks/SticsRTests,NA,7b759deb05ce499e3d25d13ae9b22bfd02c23732,Fixed bad ref. to out_dir,[![](https://github.com/SticsRPacks/SticsRTests/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRTests/actions/runs/15466526885)
+SticsRPacks,SticsRTests,SticsRPacks/SticsRTests,2,3,5,1,FALSE,https://github.com/SticsRPacks/SticsRTests,NA,d5e0e8f44fe5a7711ef569b7bf0a42c79d7f2f20,Generalize use of global variable for obs_synth,[![](https://github.com/SticsRPacks/SticsRTests/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRTests/actions/runs/15470395308)
 SticsRPacks,data,SticsRPacks/data,0,3,0,0,FALSE,https://github.com/SticsRPacks/data,0,NA,NA,NA
 SticsRPacks,documentation,SticsRPacks/documentation,1,3,1,0,FALSE,https://github.com/SticsRPacks/documentation,1,NA,NA,NA
 SticsRPacks,sandbox,SticsRPacks/sandbox,0,5,0,0,FALSE,https://github.com/SticsRPacks/sandbox,0,NA,NA,NA
