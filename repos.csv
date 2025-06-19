@@ -9,13 +9,13 @@ Remove sd if not required",[![](https://github.com/SticsRPacks/CroPlotR/workflow
 SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,1,3,23,1,FALSE,https://github.com/SticsRPacks/CroPlotR,NA,812c177212fa361e8c1156ee29a081cf9539ec7f,"Merge pull request #71 from SticsRPacks/revert-merge-57
 
 Roll-back to previous main version (before accidental merge of #57)",[![](https://github.com/SticsRPacks/CroPlotR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/15470076265)
-SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,28,4,7,6,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,d3fd1ee4d531cab961fe56b3c9c6be8df0551e10,"Merge pull request #52 from SticsRPacks/integration-agmip-IV-protocol
+SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,28,4,6,6,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,0159c183cf3c0c7cfb1247af0f48335fc276d0ed,Merge branch 'main' into integration-agmip-IV-protocol,[![](https://github.com/SticsRPacks/CroptimizR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/15753584423)
+SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,28,4,6,6,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,318eaf11d4aa05162032cfd29746666401f98780,"Merge pull request #54 from SticsRPacks/integration-agmip-IV-protocol
 
-Added computation of the equality constraints in the returned results",[![](https://github.com/SticsRPacks/CroptimizR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/15633495554)
-SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,28,4,7,6,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,e9d3b7f8e2d0af6462853ee81dba84491bcba9f0,"Merge pull request #43 from SticsRPacks/integration-agmip-IV-protocol
+Improved display of information on standard output",[![](https://github.com/SticsRPacks/CroptimizR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/15753577882)
+SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,28,4,6,6,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,e9d3b7f8e2d0af6462853ee81dba84491bcba9f0,"Merge pull request #43 from SticsRPacks/integration-agmip-IV-protocol
 
 Implementation of multi-step parameter estimation",[![](https://github.com/SticsRPacks/CroptimizR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/15462313186)
-SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,28,4,7,6,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,f24b1505f4f6787dc50e1e9d77173ef743298bcb,Merge branch 'main' into integration-agmip-IV-protocol,[![](https://github.com/SticsRPacks/CroptimizR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/15633497925)
 SticsRPacks,SticsContainRs,SticsRPacks/SticsContainRs,0,3,0,0,FALSE,https://github.com/SticsRPacks/SticsContainRs,0,NA,NA,NA
 SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,6,3,9,4,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,126df8c26a3194a81deb57822cc481c07b660763,"changes from the last release (#50)
 
@@ -32,17 +32,15 @@ SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,6,3,9,4,FALSE,https://github.com/Stics
 
 R check badge for the main branch",[![](https://github.com/SticsRPacks/SticsOnR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/14757810713) [![](https://github.com/SticsRPacks/SticsOnR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/14757810704)
 SticsRPacks,SticsPubRTools,SticsRPacks/SticsPubRTools,0,3,0,0,FALSE,https://github.com/SticsRPacks/SticsPubRTools,NA,6338d1d121b872aa8b79caa20ae9f18ee353552f,"fix: ""kind"" column name with ""file""",[![](https://github.com/SticsRPacks/SticsPubRTools/workflows/R/badge.svg)](https://github.com/SticsRPacks/SticsPubRTools/actions/runs/15047601512)
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,4,3,34,4,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,5fc67ea5c90ec4f84d99c328c797130d9ff7f623,Merge branch 'fix-solecrop-dataload' of https://github.com/SticsRPacks/SticsRFiles into fix-solecrop-dataload,[![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/15443085139)
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,4,3,34,4,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,b562bac5379fea13ecc63b6308b95d09bbbc9e0a,"Merge pull request #158 from SticsRPacks/fix-deprecated-args
+SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,4,3,36,4,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,5fc67ea5c90ec4f84d99c328c797130d9ff7f623,Merge branch 'fix-solecrop-dataload' of https://github.com/SticsRPacks/SticsRFiles into fix-solecrop-dataload,[![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/15443085139)
+SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,4,3,36,4,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,b562bac5379fea13ecc63b6308b95d09bbbc9e0a,"Merge pull request #158 from SticsRPacks/fix-deprecated-args
 
 removing deprecated args and examples update",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/15491604833) [![](https://github.com/SticsRPacks/SticsRFiles/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/15491604826)
 SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,11,3,6,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,02682c83bc6ed7f9b6f980ed166010998dfbb3f7,Create dependabot.yml,[![](https://github.com/SticsRPacks/SticsRPacks/workflows/.github/workflows/dependabot.yml/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/12280022686)
 SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,11,3,6,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,4ebd413031e9afac0263bec8daa9f6aec3d9639d,"Update DESCRIPTION
 
 fix: SticsRFiles in Remotes",[![](https://github.com/SticsRPacks/SticsRPacks/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/15158050843)
-SticsRPacks,SticsRTests,SticsRPacks/SticsRTests,2,3,5,1,FALSE,https://github.com/SticsRPacks/SticsRTests,NA,89eb3cb29928e8a7ab25df898c3e465627f90094,"Changed name of obs_synth to try solving a weird pb with testthat in github actions
-
-In github actions testthat sometimes does not take into account variables defined in the test, apparently in a random way.",[![](https://github.com/SticsRPacks/SticsRTests/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRTests/actions/runs/15706228891)
+SticsRPacks,SticsRTests,SticsRPacks/SticsRTests,2,3,5,1,FALSE,https://github.com/SticsRPacks/SticsRTests,NA,efee409c3224f19f56b2c82e52ff51ebd1fd0c78,Tried to fix cleaning of artifacts,[![](https://github.com/SticsRPacks/SticsRTests/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRTests/actions/runs/15754816390)
 SticsRPacks,data,SticsRPacks/data,0,3,0,0,FALSE,https://github.com/SticsRPacks/data,0,NA,NA,NA
 SticsRPacks,documentation,SticsRPacks/documentation,1,3,1,0,FALSE,https://github.com/SticsRPacks/documentation,1,NA,NA,NA
 SticsRPacks,sandbox,SticsRPacks/sandbox,0,5,0,0,FALSE,https://github.com/SticsRPacks/sandbox,0,NA,NA,NA
