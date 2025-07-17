@@ -36,8 +36,8 @@ SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,4,3,36,4,FALSE,https://github.co
 SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,4,3,36,4,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,b562bac5379fea13ecc63b6308b95d09bbbc9e0a,"Merge pull request #158 from SticsRPacks/fix-deprecated-args
 
 removing deprecated args and examples update",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/15491604833) [![](https://github.com/SticsRPacks/SticsRFiles/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/15491604826)
-SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,11,3,6,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,02682c83bc6ed7f9b6f980ed166010998dfbb3f7,Create dependabot.yml,[![](https://github.com/SticsRPacks/SticsRPacks/workflows/.github/workflows/dependabot.yml/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/12280022686)
-SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,11,3,6,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,4ebd413031e9afac0263bec8daa9f6aec3d9639d,"Update DESCRIPTION
+SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,12,3,6,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,02682c83bc6ed7f9b6f980ed166010998dfbb3f7,Create dependabot.yml,[![](https://github.com/SticsRPacks/SticsRPacks/workflows/.github/workflows/dependabot.yml/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/12280022686)
+SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,12,3,6,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,4ebd413031e9afac0263bec8daa9f6aec3d9639d,"Update DESCRIPTION
 
 fix: SticsRFiles in Remotes",[![](https://github.com/SticsRPacks/SticsRPacks/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/15158050843)
 SticsRPacks,SticsRTests,SticsRPacks/SticsRTests,2,3,5,1,FALSE,https://github.com/SticsRPacks/SticsRTests,NA,NA,NA,NA
