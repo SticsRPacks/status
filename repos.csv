@@ -1,13 +1,13 @@
 owner,repo,full_name,stargazers_count,subscribers_count,open_issues_count,forks_count,fork,html_url_repo,watchers_count,commit_id,commit_message,badge
 SticsRPacks,.github,SticsRPacks/.github,0,3,0,0,FALSE,https://github.com/SticsRPacks/.github,0,NA,NA,NA
-SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,1,3,23,2,FALSE,https://github.com/SticsRPacks/CroPlotR,NA,00294e496857157256960deb9bcda5224e1fe672,"Merge pull request #68 from SticsRPacks/remove-dependency-to-stringr
+SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,1,3,24,2,FALSE,https://github.com/SticsRPacks/CroPlotR,NA,00294e496857157256960deb9bcda5224e1fe672,"Merge pull request #68 from SticsRPacks/remove-dependency-to-stringr
 
 Removed dependency to stringr",[![](https://github.com/SticsRPacks/CroPlotR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/15441211658)
-SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,28,4,4,6,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,3cfabd351d0d7a3a377cf903e2a102fd7bfe204e,Merge branch 'main' into integration-agmip-IV-protocol,[![](https://github.com/SticsRPacks/CroptimizR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/15762814369)
-SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,28,4,4,6,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,9caf3a3b993c7fdaa178bcd9d08b88045355f2fa,"Merge pull request #55 from SticsRPacks/integration-agmip-IV-protocol
+SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,28,4,3,6,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,05fb3fa25bf96a7ca0f432763c10ec169f44ba2e,Fixed missing description of an argument,[![](https://github.com/SticsRPacks/CroptimizR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/16481186740)
+SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,28,4,3,6,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,9caf3a3b993c7fdaa178bcd9d08b88045355f2fa,"Merge pull request #55 from SticsRPacks/integration-agmip-IV-protocol
 
 Fixed fill_step_info",[![](https://github.com/SticsRPacks/CroptimizR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/15762812287)
-SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,28,4,4,6,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,e9d3b7f8e2d0af6462853ee81dba84491bcba9f0,"Merge pull request #43 from SticsRPacks/integration-agmip-IV-protocol
+SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,28,4,3,6,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,e9d3b7f8e2d0af6462853ee81dba84491bcba9f0,"Merge pull request #43 from SticsRPacks/integration-agmip-IV-protocol
 
 Implementation of multi-step parameter estimation",[![](https://github.com/SticsRPacks/CroptimizR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/15462313186)
 SticsRPacks,SticsContainRs,SticsRPacks/SticsContainRs,0,3,0,0,FALSE,https://github.com/SticsRPacks/SticsContainRs,0,NA,NA,NA
