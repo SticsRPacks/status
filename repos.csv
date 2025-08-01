@@ -26,7 +26,6 @@ SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,6,3,9,4,FALSE,https://github.com/Stics
 
 R check badge for the main branch",[![](https://github.com/SticsRPacks/SticsOnR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/14757810713) [![](https://github.com/SticsRPacks/SticsOnR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/14757810704)
 SticsRPacks,SticsPubRTools,SticsRPacks/SticsPubRTools,0,3,0,0,FALSE,https://github.com/SticsRPacks/SticsPubRTools,NA,6338d1d121b872aa8b79caa20ae9f18ee353552f,"fix: ""kind"" column name with ""file""",[![](https://github.com/SticsRPacks/SticsPubRTools/workflows/R/badge.svg)](https://github.com/SticsRPacks/SticsPubRTools/actions/runs/15047601512)
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,4,3,36,4,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,103a233a1f4f49609b139d7f27ea17b910315708,fix: handling data download and plt options number in tests for version 11,[![](https://github.com/SticsRPacks/SticsRFiles/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/16623067881)
 SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,4,3,36,4,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,3a83a10eca621af0a60acc964b7bf7db7fd34fb9,"merge main into the branch
 
 Merge branch 'main' into add/xml-upgrades/v11
@@ -34,13 +33,13 @@ Merge branch 'main' into add/xml-upgrades/v11
 # Conflicts:
 #	R/download_data.R
 #	man/download_data.Rd",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/16619985115)
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,4,3,36,4,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,7d8fbb624b0d7c5228321573163d0cd999cfb391,"Merge pull request #161 from SticsRPacks/feat-download-data
+SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,4,3,36,4,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,506e52bbb1ea22583f5cf3a2ca555b67d9061ed2,"Merge pull request #163 from SticsRPacks/fix-download-data
 
-fix: more generic download_data function,",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/16619065278)
+fix about the default branche of the data repository",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/16652456677) [![](https://github.com/SticsRPacks/SticsRFiles/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/16652456694)
 SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,12,3,6,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,02682c83bc6ed7f9b6f980ed166010998dfbb3f7,Create dependabot.yml,[![](https://github.com/SticsRPacks/SticsRPacks/workflows/.github/workflows/dependabot.yml/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/12280022686)
-SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,12,3,6,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,55e4a0874e9d067ccc6af0932259ecb90e0a73bd,"Merge pull request #69 from SticsRPacks/release-0.9.0
+SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,12,3,6,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,ad07e3c25f293275c12dcedc0f865883b1823f1d,"Merge pull request #73 from SticsRPacks/plecharpent-patch-1
 
-Release 0.9.0",[![](https://github.com/SticsRPacks/SticsRPacks/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/16644472348)
+fix: check badge url",[![](https://github.com/SticsRPacks/SticsRPacks/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/16674305951)
 SticsRPacks,SticsRTests,SticsRPacks/SticsRTests,2,3,6,1,FALSE,https://github.com/SticsRPacks/SticsRTests,NA,NA,NA,NA
 SticsRPacks,data,SticsRPacks/data,0,3,0,0,FALSE,https://github.com/SticsRPacks/data,0,NA,NA,NA
 SticsRPacks,documentation,SticsRPacks/documentation,1,3,1,0,FALSE,https://github.com/SticsRPacks/documentation,1,NA,NA,NA
