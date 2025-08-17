@@ -11,7 +11,7 @@ SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,28,4,3,6,FALSE,https://github.com/
 
 Implementation of multi-step parameter estimation",[![](https://github.com/SticsRPacks/CroptimizR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/15462313186)
 SticsRPacks,SticsContainRs,SticsRPacks/SticsContainRs,0,3,0,0,FALSE,https://github.com/SticsRPacks/SticsContainRs,0,NA,NA,NA
-SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,6,3,9,4,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,126df8c26a3194a81deb57822cc481c07b660763,"changes from the last release (#50)
+SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,6,3,9,5,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,126df8c26a3194a81deb57822cc481c07b660763,"changes from the last release (#50)
 
 * changes from the last release
 
@@ -22,7 +22,7 @@ SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,6,3,9,4,FALSE,https://github.com/Stics
 * Update CITATION.cff
 
 * update for recent versions of JavaSTICS and java version dependency",[![](https://github.com/SticsRPacks/SticsOnR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/13966232021)
-SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,6,3,9,4,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,5fc941a7dd1068226328d6659aa4c0c7882f192d,"Update README.Rmd (#52)
+SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,6,3,9,5,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,5fc941a7dd1068226328d6659aa4c0c7882f192d,"Update README.Rmd (#52)
 
 R check badge for the main branch",[![](https://github.com/SticsRPacks/SticsOnR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/14757810713) [![](https://github.com/SticsRPacks/SticsOnR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/14757810704)
 SticsRPacks,SticsPubRTools,SticsRPacks/SticsPubRTools,0,3,0,0,FALSE,https://github.com/SticsRPacks/SticsPubRTools,NA,6338d1d121b872aa8b79caa20ae9f18ee353552f,"fix: ""kind"" column name with ""file""",[![](https://github.com/SticsRPacks/SticsPubRTools/workflows/R/badge.svg)](https://github.com/SticsRPacks/SticsPubRTools/actions/runs/15047601512)
