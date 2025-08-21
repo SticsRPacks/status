@@ -3,7 +3,7 @@ SticsRPacks,.github,SticsRPacks/.github,0,3,0,0,FALSE,https://github.com/SticsRP
 SticsRPacks,CroPlotR,SticsRPacks/CroPlotR,1,3,24,2,FALSE,https://github.com/SticsRPacks/CroPlotR,NA,00294e496857157256960deb9bcda5224e1fe672,"Merge pull request #68 from SticsRPacks/remove-dependency-to-stringr
 
 Removed dependency to stringr",[![](https://github.com/SticsRPacks/CroPlotR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/CroPlotR/actions/runs/15441211658)
-SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,28,4,3,6,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,8728010e531606cb5d18a43acfb19fabe5de14e0,Added a test cheking the use of transform functions in run_protocol_agmip,[![](https://github.com/SticsRPacks/CroptimizR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/16525052033)
+SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,28,4,3,6,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,03f1732350c3a03c30a4a68b2903bdb44cb1d4be,Fixed initialization of repetition number for step7,[![](https://github.com/SticsRPacks/CroptimizR/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/17120761003)
 SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,28,4,3,6,FALSE,https://github.com/SticsRPacks/CroptimizR,NA,9caf3a3b993c7fdaa178bcd9d08b88045355f2fa,"Merge pull request #55 from SticsRPacks/integration-agmip-IV-protocol
 
 Fixed fill_step_info",[![](https://github.com/SticsRPacks/CroptimizR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/15762812287)
