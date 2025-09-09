@@ -23,7 +23,13 @@ SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,6,3,11,5,FALSE,https://github.com/Stic
 
 * update for recent versions of JavaSTICS and java version dependency",[![](https://github.com/SticsRPacks/SticsOnR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/13966232021)
 SticsRPacks,SticsPubRTools,SticsRPacks/SticsPubRTools,0,3,0,0,FALSE,https://github.com/SticsRPacks/SticsPubRTools,NA,6338d1d121b872aa8b79caa20ae9f18ee353552f,"fix: ""kind"" column name with ""file""",[![](https://github.com/SticsRPacks/SticsPubRTools/workflows/R/badge.svg)](https://github.com/SticsRPacks/SticsPubRTools/actions/runs/15047601512)
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,4,3,44,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,07b0977172991c4d94cda7e4a3c65341c57906fc,(feat) new functions for extracting a workspace from a source workspace with usm selection and rewriting xml files (for soils and usms),[![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/17460122600)
+SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,4,3,44,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,9d42df6ef8097f4c5e8d314b9beeb1e720a96692,"fix(doc) code and help reformatting
+
+Merge branch 'extract-workspace' of https://github.com/SticsRPacks/SticsRFiles into extract-workspace
+
+# Conflicts:
+#	R/gen_usms_xml2txt.R
+#	R/get_files_list.R",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/17582836829)
 SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,12,3,12,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,02682c83bc6ed7f9b6f980ed166010998dfbb3f7,Create dependabot.yml,[![](https://github.com/SticsRPacks/SticsRPacks/workflows/.github/workflows/dependabot.yml/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/12280022686)
 SticsRPacks,SticsRTests,SticsRPacks/SticsRTests,2,3,6,1,FALSE,https://github.com/SticsRPacks/SticsRTests,NA,NA,NA,NA
 SticsRPacks,data,SticsRPacks/data,0,3,0,0,FALSE,https://github.com/SticsRPacks/data,0,NA,NA,NA
