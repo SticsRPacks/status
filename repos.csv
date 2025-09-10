@@ -23,7 +23,7 @@ SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,6,3,11,5,FALSE,https://github.com/Stic
 
 * update for recent versions of JavaSTICS and java version dependency",[![](https://github.com/SticsRPacks/SticsOnR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/13966232021)
 SticsRPacks,SticsPubRTools,SticsRPacks/SticsPubRTools,0,3,0,0,FALSE,https://github.com/SticsRPacks/SticsPubRTools,NA,6338d1d121b872aa8b79caa20ae9f18ee353552f,"fix: ""kind"" column name with ""file""",[![](https://github.com/SticsRPacks/SticsPubRTools/workflows/R/badge.svg)](https://github.com/SticsRPacks/SticsPubRTools/actions/runs/15047601512)
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,4,3,44,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,9d42df6ef8097f4c5e8d314b9beeb1e720a96692,"fix(doc) code and help reformatting
+SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,4,3,45,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,9d42df6ef8097f4c5e8d314b9beeb1e720a96692,"fix(doc) code and help reformatting
 
 Merge branch 'extract-workspace' of https://github.com/SticsRPacks/SticsRFiles into extract-workspace
 
