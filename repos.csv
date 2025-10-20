@@ -16,7 +16,7 @@ SticsRPacks,CroptimizR,SticsRPacks/CroptimizR,28,4,6,6,FALSE,https://github.com/
 
 Bump actions/checkout from 4 to 5",[![](https://github.com/SticsRPacks/CroptimizR/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/CroptimizR/actions/runs/18316769069)
 SticsRPacks,SticsContainRs,SticsRPacks/SticsContainRs,0,3,0,0,FALSE,https://github.com/SticsRPacks/SticsContainRs,0,NA,NA,NA
-SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,6,3,12,5,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,126df8c26a3194a81deb57822cc481c07b660763,"changes from the last release (#50)
+SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,6,4,12,5,FALSE,https://github.com/SticsRPacks/SticsOnR,NA,126df8c26a3194a81deb57822cc481c07b660763,"changes from the last release (#50)
 
 * changes from the last release
 
@@ -28,7 +28,7 @@ SticsRPacks,SticsOnR,SticsRPacks/SticsOnR,6,3,12,5,FALSE,https://github.com/Stic
 
 * update for recent versions of JavaSTICS and java version dependency",[![](https://github.com/SticsRPacks/SticsOnR/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsOnR/actions/runs/13966232021)
 SticsRPacks,SticsPubRTools,SticsRPacks/SticsPubRTools,0,3,0,0,FALSE,https://github.com/SticsRPacks/SticsPubRTools,NA,6338d1d121b872aa8b79caa20ae9f18ee353552f,"fix: ""kind"" column name with ""file""",[![](https://github.com/SticsRPacks/SticsPubRTools/workflows/R/badge.svg)](https://github.com/SticsRPacks/SticsPubRTools/actions/runs/15047601512)
-SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,4,3,45,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,284f5e0ad1fa497ff610d9fdcca65b36add22ae2,"Merge pull request #178 from SticsRPacks/extract-workspace
+SticsRPacks,SticsRFiles,SticsRPacks/SticsRFiles,5,3,45,3,FALSE,https://github.com/SticsRPacks/SticsRFiles,NA,284f5e0ad1fa497ff610d9fdcca65b36add22ae2,"Merge pull request #178 from SticsRPacks/extract-workspace
 
 Extract files into a new  workspace from an existing one (using optionally JavaSTICS folder)",[![](https://github.com/SticsRPacks/SticsRFiles/workflows/R-CMD-check/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/18563100269) [![](https://github.com/SticsRPacks/SticsRFiles/workflows/test-coverage/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/18563100339) [![](https://github.com/SticsRPacks/SticsRFiles/workflows/Update%20CITATION.cff/badge.svg)](https://github.com/SticsRPacks/SticsRFiles/actions/runs/18563100278)
 SticsRPacks,SticsRPacks,SticsRPacks/SticsRPacks,12,3,17,3,FALSE,https://github.com/SticsRPacks/SticsRPacks,NA,02682c83bc6ed7f9b6f980ed166010998dfbb3f7,Create dependabot.yml,[![](https://github.com/SticsRPacks/SticsRPacks/workflows/.github/workflows/dependabot.yml/badge.svg)](https://github.com/SticsRPacks/SticsRPacks/actions/runs/12280022686)
